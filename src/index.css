@@ -5,9 +5,34 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+section {
+  height: 100%;
+}
+
+.btn-cta {
+  background-color: #FEDDB6;
+  border-radius: 6px;
+  padding: 14px 23px;
+  border: none;
+}
+
+.bkgrd-blue {
+  background-color: #DEF3FF;
+}
+
+.main-wrapper {
+  height: 100vh;
 }
