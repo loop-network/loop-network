@@ -8,9 +8,9 @@ function Home() {
           <div class="col-lg-6">
             <h1>Breaking the glass ceiling, together.</h1>
             <p>
-            The Loop is a community for female founders. We make personalized introductions for one-on-ones and group salons.
+            The Loop is a community for current and future female founders. We make personalized introductions for one-on-ones and group salons.
             </p>
-            <button type="button" class="btn-cta">Join The Loop</button>
+            <button type="button" class="btn btn-cta">Join The Loop</button>
           </div>
           <div class="col-lg-6">
             <img

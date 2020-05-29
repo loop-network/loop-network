@@ -7,7 +7,7 @@ function Navigation(props) {
       <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
           <Link class="navbar-brand" to="/">
-            The Loop
+            <img class="navbar-logo" src="/images/logo.png" alt="The Loop" />
           </Link>
           <button
             class="navbar-toggler"
@@ -21,7 +21,7 @@ function Navigation(props) {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav mr-auto">
               <li
                 class={`nav-item  ${
                   props.location.pathname === "/" ? "active" : ""
@@ -34,10 +34,10 @@ function Navigation(props) {
               </li>
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/contact" ? "active" : ""
+                  props.location.pathname === "/matching" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/contact">
+                <Link class="nav-link" to="/matching">
                   One-on-Ones
                 </Link>
               </li>
@@ -49,6 +49,25 @@ function Navigation(props) {
                 <Link class="nav-link" to="/about">
                   About
                 </Link>
+              </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+              <li
+                class={`nav-item  ${
+                  props.location.pathname === "/" ? "active" : ""
+                }`}
+              >
+                <Link class="nav-link" to="/">
+                  Sign in
+                  <span class="sr-only">(current)</span>
+                </Link>
+              </li>
+              <li
+                class={`nav-item  ${
+                  props.location.pathname === "/matching" ? "active" : ""
+                }`}
+              >
+                <button class="btn btn-cta my-2 my-sm-0">Join Us</button>
               </li>
             </ul>
           </div>
