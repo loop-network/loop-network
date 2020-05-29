@@ -5,7 +5,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 18px;
 }
 
 code {
@@ -19,20 +18,31 @@ h1 {
 }
 
 section {
-  height: 100%;
+  background-color: #DEF3FF;
 }
 
 .btn-cta {
   background-color: #FEDDB6;
   border-radius: 6px;
-  padding: 14px 23px;
+  border-color: #FEDDB6;
+  padding: .375rem .75rem;
+}
+
+/* .btn.btn-primary,
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active {
+  color: #000000;
+  background-color: #FEDDB6;
+  border-radius: 6px;
   border: none;
+} */
+
+.navbar .navbar-brand {
+  padding-top: 0px;
 }
 
-.bkgrd-blue {
-  background-color: #DEF3FF;
-}
-
-.main-wrapper {
-  height: 100vh;
+.navbar .navbar-brand img {
+  height: 80px;
 }
