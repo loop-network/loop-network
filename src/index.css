@@ -18,7 +18,10 @@ h1 {
 }
 
 section {
-  background-color: #DEF3FF;
+  height: 100vh;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
 }
 
 .btn-cta {
@@ -39,10 +42,20 @@ section {
   border: none;
 } */
 
+.first-section {
+  height: 80vh;
+  min-height: 80vh;
+  background-color: #DEF3FF;
+}
+
 .navbar .navbar-brand {
   padding-top: 0px;
 }
 
 .navbar .navbar-brand img {
   height: 80px;
+}
+
+.testimonial {
+  background-color: #DEF3FF;
 }
