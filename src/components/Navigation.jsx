@@ -1,7 +1,17 @@
-import React from "react";
-import { Link, withRouter } from "react-router-dom";
+import React, { useContext }  from "react";
+import { Link, withRouter, useHistory } from "react-router-dom";
+import { AuthContext } from "../firebase/Auth";
+import app from "../firebase/base";
+
 
 function Navigation(props) {
+
+  const history = useHistory();
+  const currentUser = useContext(AuthContext)["currentUser"];
+  console.log("hello from nav");
+  console.log(useContext(AuthContext));
+  console.log(currentUser);
+
   return (
     <div className="navigation">
       <nav class="navbar navbar-expand-lg navbar-light bg-white">
@@ -57,17 +67,27 @@ function Navigation(props) {
                   props.location.pathname === "/" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/">
+                {currentUser? 
+                <Link class="nav-link" to="/" onClick={() => app.auth().signOut()}>
+                  Sign Out
+                  <span class="sr-only">(current)</span>
+                </Link> :
+                <Link class="nav-link" to="/signin">
                   Sign in
                   <span class="sr-only">(current)</span>
                 </Link>
+                }
               </li>
               <li
                 class={`nav-item  ${
                   props.location.pathname === "/matching" ? "active" : ""
                 }`}
               >
-                <button class="btn btn-cta my-2 my-sm-0">Join Us</button>
+                {currentUser? 
+                <button onClick = {() => history.push("/profile")} class="btn btn-cta my-2 my-sm-0">Profile</button>
+                :
+                <button onClick = {() => history.push("/signup")} class="btn btn-cta my-2 my-sm-0">Join Us</button>
+                }
               </li>
             </ul>
           </div>
