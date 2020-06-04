@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Matching, SignIn, SignUp, Onboard } from "./components";
+import { Navigation, Footer, Home, About, Matching, Groups, SignIn, SignUp, Onboard } from "./components";
 
 import { AuthProvider } from "./firebase/Auth";
 
@@ -14,6 +14,7 @@ function App() {
             <Route path="/" exact component={() => <Home />} />
             <Route path="/about" exact component={() => <About />} />
             <Route path="/matching" exact component={() => <Matching />} />
+            <Route path="/groups" exact component={() => <Groups />} />
             <Route path="/signin" exact component={() => <SignIn />} />
             <Route path="/signup" exact component={() => <SignUp />} />
             <Route path="/onboard" exact component={() => <Onboard />} />

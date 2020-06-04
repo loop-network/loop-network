@@ -1,14 +1,14 @@
 import React from "react";
 
-function Matching() {
+function Groups() {
   return (
-    <div className="matching">
+    <div className="groups">
       <div class="container">
         <div class="row align-items-center my-5">
         <div class="col-lg-5">
-            <h1>One-on-Ones</h1>
+            <h1>Group Salons</h1>
             <p>
-              More in-depth description of One-on--Ones and the purpose of these meetings - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+              More in-depth description of Group Salons and the purpose of these meetings - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
             </p>
           </div>
           <div class="col-lg-7">
@@ -24,4 +24,4 @@ function Matching() {
   );
 }
 
-export default Matching;
+export default Groups;
