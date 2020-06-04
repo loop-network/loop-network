@@ -1,6 +1,6 @@
 import React , { useCallback, useContext } from "react";
 import { withRouter, Redirect } from "react-router";
-import app from "../firebase/base";
+import app, { google, auth } from "../firebase/base";
 import { AuthContext } from "../firebase/Auth";
 import {Form, FormControl, FormGroup, ControlLabel, HelpBlock, Checkbox, Radio, Button} from 'react-bootstrap';
 
@@ -20,6 +20,26 @@ function SignIn({ history }) {
     },
     [history]
   );
+
+  const handleGoogleAuth = ()=> {
+    auth.signInWithPopup(google).then(function(result) {
+      // This gives you a Google Access Token. You can use it to access the Google API.
+      var token = result.credential.accessToken;
+      // The signed-in user info.
+      var user = result.user;
+      // ...
+    }).catch(function(error) {
+      // Handle Errors here.
+      var errorCode = error.code;
+      var errorMessage = error.message;
+      console.log(errorMessage);
+      // The email of the user's account used.
+      var email = error.email;
+      // The firebase.auth.AuthCredential type that was used.
+      var credential = error.credential;
+      // ...
+    });
+  };
 
   const {currentUser} = useContext(AuthContext)|| {};
   console.log(currentUser)
@@ -47,6 +67,9 @@ function SignIn({ history }) {
                
                 <Button type="submit" class="btn btn-cta my-2 my-sm-0">
                     Submit
+                </Button>
+                <Button type="button" class="btn btn-cta my-2 my-sm-0" onClick = { handleGoogleAuth }>
+                    Continue with Google
                 </Button>
             </Form>
           </div>
