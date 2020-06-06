@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Glacial Indifference Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -22,6 +22,42 @@ section {
   min-height: 100vh;
   align-items: center;
   display: flex;
+}
+
+@font-face {
+  font-family: "Now Bold";
+  src: url("fonts/now-bold-webfont.eot");
+  src:
+  url("fonts/now-bold-webfont.woff") format("woff"),
+  url("fonts/Now-Bold.otf") format("opentype"),
+  url("fonts/now-bold-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Glacial Indifference Regular";
+  src: url("fonts/glacialindifference-regular-webfont.eot");
+  src:
+  url("fonts/glacialindifference-regular-webfont.woff") format("woff"),
+  url("fonts/GlacialIndifference-Regular.otf") format("opentype"),
+  url("fonts/glacialindifference-regular-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Glacial Indifference Bold";
+  src: url("fonts/glacialindifference-bold-webfont.eot");
+  src:
+  url("fonts/glacialindifference-bold-webfont.woff") format("woff"),
+  url("fonts/GlacialIndifference-Bold.otf") format("opentype"),
+  url("fonts/glacialindifference-bold-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Glacial Indifference Italic";
+  src: url("fonts/glacialindifference-italic-webfont.eot");
+  src:
+  url("fonts/glacialindifference-italic-webfont.woff") format("woff"),
+  url("fonts/GlacialIndifference-Italic.otf") format("opentype"),
+  url("fonts/glacialindifference-italic-webfont.svg") format("svg");
 }
 
 .blue-background {
