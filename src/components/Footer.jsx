@@ -16,7 +16,7 @@ function Footer() {
                   <div class="form-group">
                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email Address"/>
                   </div>
-                  <button type="submit" class="btn btn-cta">Subscibe</button>
+                  <button type="submit" class="btn btn-primary">Subscribe</button>
                 </form>
             </div>
             <div class="col-lg-6">

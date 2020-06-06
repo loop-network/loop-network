@@ -31,21 +31,9 @@ section {
   padding: .375rem .75rem;
 }
 
-/* .btn.btn-primary,
-.btn.btn-primary:hover,
-.btn.btn-primary:focus,
-.btn.btn-primary:active,
-.btn.btn-primary.active {
-  color: #000000;
-  background-color: #FEDDB6;
-  border-radius: 6px;
-  border: none;
-} */
-
 .first-section {
   height: 80vh;
   min-height: 80vh;
-  background-color: #DEF3FF;
 }
 
 .navbar .navbar-brand {
@@ -56,6 +44,6 @@ section {
   height: 80px;
 }
 
-.testimonial {
-  background-color: #DEF3FF;
+.blue-background {
+  background-color: #D0eeFF;
 }
