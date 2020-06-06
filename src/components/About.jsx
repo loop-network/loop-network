@@ -22,6 +22,38 @@ function About() {
           </div>
         </div>
       </section>
+      <section>
+        <div class="container">
+          <div class="card-deck">
+            <div class="row row-cols-3 row-cols-md-3">
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="http://placehold.it/500x300" class="card-img-top" alt="One on Ones Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Sri Muppidi</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="http://placehold.it/500x300" class="card-img-top" alt="Group Salons Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Name</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="http://placehold.it/500x300" class="card-img-top" alt="Group Salons Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Name</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }

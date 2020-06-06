@@ -34,36 +34,38 @@ function SignUp({history}) {
 
   return (
     <div className="signup">
-      <div class="container">
-        <div class="row align-items-center my-5">
-          <div class="col-lg-5">
-            <h1>Join Us</h1>
-            <form onSubmit={handleSignUp}>
-                <Form.Group controlId="formBasicEmail">
-                    <Form.Label>Email address</Form.Label>
-                    <Form.Control type="email" placeholder="Enter email" />
-                   
-                </Form.Group>
+      <section class="blue-background">
+        <div class="container">
+          <div class="row align-items-center my-5">
+            <div class="col-lg-5">
+              <h1>Join Us</h1>
+              <form onSubmit={handleSignUp}>
+                  <Form.Group controlId="formBasicEmail">
+                      <Form.Label>Email address</Form.Label>
+                      <Form.Control type="email" placeholder="Enter email" />
+                    
+                  </Form.Group>
 
-                <Form.Group controlId="formBasicPassword">
-                    <Form.Label>Password</Form.Label>
-                    <Form.Control type="password" placeholder="Password" />
-                </Form.Group>
-               
-                <Button type="submit" class="btn btn-cta my-2 my-sm-0">
-                    Submit
-                </Button>
-            </form>
-          </div>
-          <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
+                  <Form.Group controlId="formBasicPassword">
+                      <Form.Label>Password</Form.Label>
+                      <Form.Control type="password" placeholder="Password" />
+                  </Form.Group>
+                
+                  <Button type="submit" class="btn btn-cta my-2 my-sm-0">
+                      Submit
+                  </Button>
+              </form>
+            </div>
+            <div class="col-lg-7">
+              <img
+                class="img-fluid rounded mb-4 mb-lg-0"
+                src="http://placehold.it/900x400"
+                alt=""
+              />
+            </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
   );
 }

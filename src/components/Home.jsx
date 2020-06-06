@@ -44,7 +44,7 @@ function Home() {
       </section>
       <section>
         <div class="container">
-          <div class="card-group">
+          <div class="card-deck">
             <div class="card">
               <img src="http://placehold.it/500x300" class="card-img-top" alt="One on Ones Card" />
               <div class="card-body">
@@ -64,9 +64,11 @@ function Home() {
           </div>
         </div>
       </section>
-      <section class="blue-background">
-        <div class="container">
-          <h1>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h1>
+      <section>
+        <div class="container text-center">
+          <div class="testimonial">
+            <h1>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h1>
+          </div>
         </div>
       </section>
     </div>

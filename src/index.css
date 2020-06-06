@@ -24,6 +24,10 @@ section {
   display: flex;
 }
 
+.blue-background {
+  background-color: #D0eeFF;
+}
+
 .btn-cta {
   background-color: #FEDDB6;
   border-radius: 6px;
@@ -44,6 +48,26 @@ section {
   height: 80px;
 }
 
-.blue-background {
+.special-section {
+  margin-top: 6.25rem;
+  margin-bottom: 6.25rem;
+  align-items: top;
+  display: flex;
+  min-height: 100vh;
+}
+
+.testimonial {
   background-color: #D0eeFF;
+  min-height: 70vh;
+  align-items: center;
+  display: flex;
+  text-align: left;
+  padding-left: 11.75rem;
+  padding-right: 11.75rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem; /* top right bottom left */
+}
+
+.yellow-background {
+  background-color: #f8c100;
 }

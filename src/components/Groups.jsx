@@ -22,11 +22,38 @@ function Groups() {
           </div>
         </div>
       </section>
-      <section>
+      <div class="special-section">
         <div class="container">
-          <h3>Upcoming Events</h3>
+        <nav class="nav">
+          <a class="nav-link disabled" href="#"><h5>Upcoming Events</h5></a>
+          <a class="nav-link" href="#"><h5>Past Events</h5></a>
+        </nav>
+          <div class="card-group">
+            <div class="card mb-3">
+              <div class="row no-gutters">
+                <div class="col-md-2 yellow-background">
+                  <div class="card-body text-center">
+                    <h5>May 2</h5>
+                    <h6>11:00am</h6>
+                  </div>
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title">Startups with Sri</h5>
+                    <p class="card-text">This is a group salon with entrepreneur Sri Muppidi. We will be going over startup ideation and how to create an MVP. </p>
+                    <p class="card-text">Location: Zoom<br />Host: Sri Muppidi</p>
+                  </div>
+                </div>
+                <div class="col-md-2">
+                  <div class="card-body">
+                    <button class="btn btn-primary">Join Waitlist</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-      </section>
+      </div>
     </div>
   );
 }

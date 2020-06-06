@@ -54,9 +54,11 @@ function Matching() {
           </div>
         </div>
       </section>
-      <section class="blue-background">
+      <section>
         <div class="container">
-          <h1>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h1>
+          <div class="testimonial">
+            <h1>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h1>
+          </div>
         </div>
       </section>
     </div>
