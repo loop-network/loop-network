@@ -49,7 +49,7 @@ function SignIn({ history }) {
 
   return (
     <div className="signin">
-      <section class="blue-background">
+      <section class="first-section blue-background">
         <div class="container">
           <div class="row align-items-center my-5">
             <div class="col-lg-5">
@@ -67,7 +67,7 @@ function SignIn({ history }) {
                   </Form.Group>
                 
                   <Button type="submit" class="btn btn-cta my-2 my-sm-0">
-                      Submit
+                      Sign in
                   </Button>
                   <Button type="button" class="btn btn-cta my-2 my-sm-0" onClick = { handleGoogleAuth }>
                       Continue with Google

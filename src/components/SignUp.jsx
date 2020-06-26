@@ -34,7 +34,7 @@ function SignUp({history}) {
 
   return (
     <div className="signup">
-      <section class="blue-background">
+      <section class="first-section blue-background">
         <div class="container">
           <div class="row align-items-center my-5">
             <div class="col-lg-5">
@@ -52,7 +52,7 @@ function SignUp({history}) {
                   </Form.Group>
                 
                   <Button type="submit" class="btn btn-cta my-2 my-sm-0">
-                      Submit
+                      Sign up
                   </Button>
               </form>
             </div>
