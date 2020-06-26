@@ -44,11 +44,11 @@ function Navigation(props) {
               </li>
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/matching" ? "active" : ""
+                  props.location.pathname === "/community" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/matching">
-                  One-on-Ones
+                <Link class="nav-link" to="/community">
+                  Community
                 </Link>
               </li>
               <li
@@ -58,6 +58,15 @@ function Navigation(props) {
               >
                 <Link class="nav-link" to="/groups">
                   Group Salons
+                </Link>
+              </li>
+              <li
+                class={`nav-item  ${
+                  props.location.pathname === "/volunteer" ? "active" : ""
+                }`}
+              >
+                <Link class="nav-link" to="/volunteer">
+                  Volunteer
                 </Link>
               </li>
               <li
