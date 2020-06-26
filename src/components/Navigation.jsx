@@ -102,9 +102,9 @@ function Navigation(props) {
                 }`}
               >
                 {currentUser? 
-                <button onClick = {() => history.push("/profile")} class="btn btn-cta my-2 my-sm-0">Profile</button>
+                <button onClick = {() => history.push("/profile")} class="btn btn-primary">Profile</button>
                 :
-                <button onClick = {() => history.push("/signup")} class="btn btn-cta my-2 my-sm-0">Join Us</button>
+                <button onClick = {() => history.push("/signup")} class="btn btn-primary">Join Us</button>
                 }
               </li>
             </ul>

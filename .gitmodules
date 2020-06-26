@@ -1,0 +1,3 @@
+[submodule "src/the-loop-private"]
+	path = src/the-loop-private
+	url = https://github.com/scye09/the-loop-private.git
