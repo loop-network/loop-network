@@ -2,6 +2,7 @@ import React, { useContext }  from "react";
 import { Link, withRouter, useHistory } from "react-router-dom";
 import { AuthContext } from "../firebase/Auth";
 import app from "../firebase/base";
+import "bootstrap/js/src/collapse.js";
 
 
 function Navigation(props) {
