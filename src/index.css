@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 code {
@@ -61,13 +62,14 @@ h1 {
 }
 
 .blue-background {
-  background-color: #D0eeFF;
+  background-color: #5271FF;
+  color: #FFFFFF;
 }
 
 .btn-cta {
-  background-color: #FEDDB6;
+  background-color: #F8C100;
   border-radius: 6px;
-  border-color: #FEDDB6;
+  border-color: #F8C100;
   padding: .375rem .75rem;
 }
 
@@ -93,7 +95,19 @@ h1 {
 }
 
 .first {
-  min-height: calc(100vh - 100px);
+  min-height: calc(100vh - 105px);
+}
+
+.card-img-top {
+  width: 100%;
+  min-height: 20vw;
+  object-fit: cover;
+}
+
+.speaker {
+  width: 100%;
+  min-height: 5vw;
+  object-fit: cover;
 }
 
 /* .testimonial {
@@ -108,5 +122,5 @@ h1 {
 /* } */ 
 
 .yellow-background {
-  background-color: #f8c100;
+  background-color: #FEDDB6;
 }

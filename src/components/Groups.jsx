@@ -3,7 +3,7 @@ import React from "react";
 function Groups() {
   return (
     <div className="groups">
-      <div class="row first py-4 px-4 my-4">
+      <div class="row first py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
           <div class="col-lg-5 mb-4">
@@ -16,8 +16,8 @@ function Groups() {
             <div class="col-lg-7">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/900x400"
-                alt=""
+                src="images/hang_out_large.svg"
+                alt="Group Salons"
               />
             </div>
           </div>
@@ -32,8 +32,8 @@ function Groups() {
               <h6>Develop your venture</h6>
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/300x300"
-                alt=""
+                src="images/plans.svg"
+                alt="Track 1"
               />
               <p><b>Ideate, Plan & Build</b><br /><br />Topics covered: problem discovery, market research, ideating, & user research.</p>
               <button type="button" class="btn btn-primary">Sign up</button>
@@ -42,8 +42,8 @@ function Groups() {
               <h6>Launch your startup</h6>
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/300x300"
-                alt=""
+                src="images/maker_launch.svg"
+                alt="Track 2"
               />
               <p><b>MVP, Sell, & Test</b><br /><br />Topics covered: design, prototyping, market experiments, & sales tests.</p>
               <button type="button" class="btn btn-primary">Sign up</button>
@@ -52,8 +52,8 @@ function Groups() {
               <h6>Scale your company</h6>
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/300x300"
-                alt=""
+                src="images/progress_data.svg"
+                alt="Track 3"
               />
               <p><b>Grow, Hire, & Fundraise</b><br /><br />Topics covered: hiring, fundraising, sales, & pricing.</p>
               <button type="button" class="btn btn-primary">Sign up</button>
