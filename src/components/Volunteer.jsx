@@ -3,7 +3,7 @@ import React from "react";
 function Volunteer() {
   return (
     <div className="volunteer">
-      <div class="row min-vh-100 blue-background py-4 px-4">
+      <div class="row first py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center my-5">
           <div class="col-lg-5 mb-4">
@@ -23,7 +23,7 @@ function Volunteer() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4">
+      <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <h5>How it Works</h5>
           <p>Group Salons will launch June 29th. Sessions are one hour per week for a month. We need an outstanding group of mentors to coach current and future founders who hope to develop, launch, and scale their startups.</p>
@@ -61,7 +61,7 @@ function Volunteer() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 blue-background py-4 px-4">
+      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
         <h2>Ready to sign up? Help the next generation of female founders.</h2>
         <button type="button" class="btn btn-primary">Sign up</button>

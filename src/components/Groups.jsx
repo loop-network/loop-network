@@ -3,7 +3,7 @@ import React from "react";
 function Groups() {
   return (
     <div className="groups">
-      <div class="row min-vh-100 blue-background py-4 px-4">
+      <div class="row first py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center">
           <div class="col-lg-5 mb-4">
@@ -23,7 +23,7 @@ function Groups() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4">
+      <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <h5>How it Works</h5>
           <p>Group Salons will launch June 29th. Sessions are one hour per week for a month. They’re led by an outstanding group of mentors who have prior experience as operators, investors, and founders. Group Salons are free, and mentors support founders on a volunteer-basis. Choose from three tracks:</p>
@@ -61,13 +61,13 @@ function Groups() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 blue-background py-4 px-4">
+      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
         <h2>Group Salons will launch June 29th. Sign up by June 22nd to get your spot.</h2><br />
         <button type="button" class="btn btn-primary">Sign up</button>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4">
+      <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <h5>FAQ</h5>
           <ol>

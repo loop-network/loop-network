@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 function Footer() {
   return (
     <div className="footer">
-      <footer class="py-5 bg-white">
+      <footer class="py-5 bg-white px-4 my-4">
         <div class="container">
           <h1>Stay in the Loop</h1>
           <div class="row">

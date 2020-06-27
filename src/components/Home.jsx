@@ -3,7 +3,7 @@ import React from "react";
 function Home() {
   return (
     <div className="home">
-      <div class="row min-vh-100 blue-background py-4 px-4">
+      <div class="row first blue-background py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
@@ -23,7 +23,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4">
+      <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6">
@@ -42,7 +42,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4">
+      <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <h5>How you can be a part of The Loop</h5>
           <div class="row">
@@ -81,7 +81,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 blue-background py-4 px-4">
+      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
           <h2>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h2>
         </div>

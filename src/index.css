@@ -92,7 +92,11 @@ h1 {
   min-height: 100vh;
 }
 
-.testimonial {
+.first {
+  min-height: calc(100vh - 100px);
+}
+
+/* .testimonial {
   background-color: #D0eeFF;
   min-height: 70vh;
   align-items: left;
@@ -101,7 +105,7 @@ h1 {
   padding-right: 11.75rem;
   padding-top: 6rem;
   padding-bottom: 6rem; /* top right bottom left */
-}
+/* } */ 
 
 .yellow-background {
   background-color: #f8c100;
