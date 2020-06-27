@@ -28,7 +28,7 @@ function About() {
             <div class="row row-cols-3 row-cols-md-3">
               <div class="col mb-3">
                 <div class="card">
-                  <img src="http://placehold.it/500x300" class="card-img-top" alt="One on Ones Card" />
+                  <img src="/profiles/Sri.png" class="card-img-top" alt="One on Ones Card" />
                   <div class="card-body">
                     <h5 class="card-title">Sri Muppidi</h5>
                   </div>
@@ -36,17 +36,75 @@ function About() {
               </div>
               <div class="col mb-3">
                 <div class="card">
-                  <img src="http://placehold.it/500x300" class="card-img-top" alt="Group Salons Card" />
+                  <img src="/profiles/Julie.jpg" class="card-img-top" alt="Group Salons Card" />
                   <div class="card-body">
-                    <h5 class="card-title">Name</h5>
+                    <h5 class="card-title">Julie</h5>
                   </div>
                 </div>
               </div>
               <div class="col mb-3">
                 <div class="card">
-                  <img src="http://placehold.it/500x300" class="card-img-top" alt="Group Salons Card" />
+                  <img src="/profiles/Iris.png" class="card-img-top" alt="Group Salons Card" />
                   <div class="card-body">
-                    <h5 class="card-title">Name</h5>
+                    <h5 class="card-title">Iris</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         
+      
+          <div class="card-deck">
+            <div class="row row-cols-3 row-cols-md-3">
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="/profiles/Michelle.jpg" class="card-img-top" alt="One on Ones Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Michelle</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="/profiles/Annie.JPG" class="card-img-top" alt="Group Salons Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Annie</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="/profiles/Sophia.jpg" class="card-img-top" alt="Group Salons Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Sophia</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-deck">
+            <div class="row row-cols-3 row-cols-md-3">
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="/profiles/Sara.jpg" class="card-img-top" alt="One on Ones Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Sara</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="/profiles/Aina.jpg" class="card-img-top" alt="Group Salons Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Aina</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col mb-3">
+                <div class="card">
+                  <img src="/profiles/Fernanda.png" class="card-img-top" alt="Group Salons Card" />
+                  <div class="card-body">
+                    <h5 class="card-title">Fernanda</h5>
                   </div>
                 </div>
               </div>
