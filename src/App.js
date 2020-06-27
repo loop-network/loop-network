@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Matching, Groups, Volunteer, SignIn, SignUp, Onboard } from "./components";
+import { Navigation, Footer, Home, About, Matching, Groups, Volunteer, SignIn, SignUp, Onboard, Community} from "./components";
 
 import { AuthProvider } from "./firebase/Auth";
 

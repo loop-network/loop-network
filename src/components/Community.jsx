@@ -3,10 +3,10 @@ import React from "react";
 function Community() {
   return (
     <div className="community">
-      <section class = "first-section">
-        <div class="container">
-          <div class="row align-items-center my-5">
-          <div class="col-lg-5">
+      <div class = "row first py-4 px-4 mb-4">
+        <div class="container my-auto">
+          <div class="row align-items-center">
+          <div class="col-lg-5 mb-4">
               <h1>Our Community</h1>
               <p>
                 Find other women founders to connect and collaborate.  
@@ -15,18 +15,18 @@ function Community() {
             <div class="col-lg-7">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/900x400"
-                alt=""
+                src="images/community-header.svg"
+                alt="Community"
               />
             </div>
           </div>
         </div>
-      </section>
-      <section>
-        <div class="container">
+      </div>
+      {/* <div class="row min-vh-100 py-4 px-4 my-4 mt-0"></div> */}
+        <div class="container my-auto">
           <div class="card-group">
             <div class="card">
-              <img src="http://placehold.it/500x300" class="card-img-top" alt="One on Ones Card" />
+              <img src="images/slack_chat.svg" class="card-img-top" alt="One on Ones Card" />
               <div class="card-body">
                 <h5 class="card-title">Our Slack Workspace</h5>
                 <p class="card-text">Join the Slack community to be a part of the conversation</p>
@@ -34,7 +34,7 @@ function Community() {
               </div>
             </div>
             <div class="card">
-              <img src="http://placehold.it/500x300" class="card-img-top" alt="Group Salons Card" />
+              <img src="images/women_directory.svg" class="card-img-top" alt="Group Salons Card" />
               <div class="card-body">
                 <h5 class="card-title">Our Directory of Womxn</h5>
                 <p class="card-text">Access the Directory to reach out directly to other interesting womxn.</p>
@@ -43,12 +43,12 @@ function Community() {
             </div>
           </div>
         </div>
-      </section>
-      <section class="testimonial">
-        <div class="container">
+      
+      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
+        <div class="container my-auto">
           <h1>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h1>
         </div>
-      </section>
+      </div>
     </div>
   );
 }
