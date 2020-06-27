@@ -78,7 +78,7 @@ function About() {
               </div>
             
             </div>
-            </div>
+          </div>
             <div class="container my-auto">
               <div class="card-deck my-5">
                 <h1>Product Team</h1>
@@ -100,32 +100,32 @@ function About() {
                 </div>
               </div>
             </div>
-            </div>
-          </div>
-          <div class="container my-auto">
-          <div class="card-deck-my-5">
-            <h1>Community Team</h1>
-            <div class="row row-cols-3 row-cols-md-3">
-              <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Sara.jpg" class="card-img-top" alt="One on Ones Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Sara</h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Aina.jpg" class="card-img-top" alt="Group Salons Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Aina</h5>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
           </div>
         </div>
+        <div class="container my-auto">
+          <div class="card-deck-my-5">
+            <h1>Community Team</h1>
+              <div class="row row-cols-3 row-cols-md-3">
+                <div class="col mb-3">
+                  <div class="card">
+                    <img src="/profiles/Sara.jpg" class="card-img-top" alt="One on Ones Card" />
+                    <div class="card-body">
+                      <h5 class="card-title">Sara</h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="col mb-3">
+                  <div class="card">
+                    <img src="/profiles/Aina.jpg" class="card-img-top" alt="Group Salons Card" />
+                    <div class="card-body">
+                      <h5 class="card-title">Aina</h5>
+                    </div>
+                  </div>
+                </div>
+              
+              </div>
+            </div>
+          </div>
         </div>
       </section>
       
