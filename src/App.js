@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Matching, Groups, Volunteer, SignIn, SignUp, Onboard } from "./components";
+import { Navigation, Footer, Home, About, Matching, Groups, Volunteer, SignIn, SignUp, Onboard, Community} from "./components";
 
 import { AuthProvider } from "./firebase/Auth";
 
@@ -13,7 +13,7 @@ function App() {
           <Switch>
             <Route path="/" exact component={() => <Home />} />
             <Route path="/about" exact component={() => <About />} />
-            <Route path="/matching" exact component={() => <Matching />} />
+            <Route path="/community" exact component={() => <Community />} />
             <Route path="/groups" exact component={() => <Groups />} />
             <Route path="/volunteer" exact component={() => <Volunteer />} />
             <Route path="/signin" exact component={() => <SignIn />} />
