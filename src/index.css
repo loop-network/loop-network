@@ -17,12 +17,12 @@ h1 {
   font-weight: bold;
 }
 
-section {
+/* section {
   height: 100vh;
   min-height: 100vh;
   align-items: center;
   display: flex;
-}
+} */
 
 @font-face {
   font-family: "Now Bold";
@@ -71,10 +71,10 @@ section {
   padding: .375rem .75rem;
 }
 
-.first-section {
+/* .first-section {
   height: 85vh;
   min-height: 85vh;
-}
+} */
 
 .navbar .navbar-brand {
   padding-top: 0px;
@@ -95,8 +95,7 @@ section {
 .testimonial {
   background-color: #D0eeFF;
   min-height: 70vh;
-  align-items: center;
-  display: flex;
+  align-items: left;
   text-align: left;
   padding-left: 11.75rem;
   padding-right: 11.75rem;

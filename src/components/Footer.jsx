@@ -10,7 +10,7 @@ function Footer() {
         <div class="container">
           <h1>Stay in the Loop</h1>
           <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mb-4">
               <h5>Receive content, events, and more.</h5>
                 <form>
                   <div class="form-group">
