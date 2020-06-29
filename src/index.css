@@ -18,12 +18,7 @@ h1 {
   font-weight: bold;
 }
 
-/* section {
-  height: 100vh;
-  min-height: 100vh;
-  align-items: center;
-  display: flex;
-} */
+/* Fonts */
 
 @font-face {
   font-family: "Now Bold";
@@ -61,9 +56,15 @@ h1 {
   url("the-loop-private/fonts/glacialindifference-italic-webfont.svg") format("svg");
 }
 
+/* Classes */
+
 .blue-background {
   background-color: #5271FF;
   color: #FFFFFF;
+}
+
+.blue-text {
+  color: #5271FF;
 }
 
 .btn-cta {
@@ -73,10 +74,15 @@ h1 {
   padding: .375rem .75rem;
 }
 
-/* .first-section {
-  height: 85vh;
-  min-height: 85vh;
-} */
+.card-img-top {
+  width: 100%;
+  min-height: 20vw;
+  object-fit: cover;
+}
+
+.first {
+  min-height: calc(100vh - 105px);
+}
 
 .navbar .navbar-brand {
   padding-top: 0px;
@@ -86,40 +92,15 @@ h1 {
   height: 80px;
 }
 
-.special-section {
-  margin-top: 6.25rem;
-  margin-bottom: 6.25rem;
-  align-items: top;
-  display: flex;
-  min-height: 100vh;
-}
-
-.first {
-  min-height: calc(100vh - 105px);
-}
-
-.card-img-top {
-  width: 100%;
-  min-height: 20vw;
-  object-fit: cover;
-}
-
 .speaker {
   width: 100%;
   min-height: 5vw;
   object-fit: cover;
 }
 
-/* .testimonial {
-  background-color: #D0eeFF;
-  min-height: 70vh;
-  align-items: left;
-  text-align: left;
-  padding-left: 11.75rem;
-  padding-right: 11.75rem;
-  padding-top: 6rem;
-  padding-bottom: 6rem; /* top right bottom left */
-/* } */ 
+.wrapper {
+  overflow-x: hidden;
+}
 
 .yellow-background {
   background-color: #FEDDB6;

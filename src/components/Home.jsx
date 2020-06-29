@@ -7,9 +7,9 @@ function Home() {
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
-              <h1>Breaking the glass ceiling, together.</h1>
+              <h1 class="mb-4">The world needs more female founders.</h1>
               <p>
-              The Loop is a community for current and future female founders. We make personalized introductions for one-on-ones and group salons.
+              The Loop is a community for womxn who want to take the entrepreneurial leap.
               </p>
               <button type="button" class="btn btn-primary">Join The Loop</button>
             </div>
@@ -34,24 +34,57 @@ function Home() {
               />
             </div>
             <div class="col-lg-6">
-              <h2>Last year, female founders received only 2.8% of venture funding. We plan to change that.</h2>
-              <p>
-              More in-depth description of mission - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              </p>
+              <h2 class="mb-4">Female founders are a better bet.</h2>
+              <p>For every dollar of funding, female-founded startups generated <b class="blue-text">47 cents more in revenue</b> than male-founded startups. (Source: <a href="https://www.bcg.com/publications/2018/why-women-owned-startups-are-better-bet.aspx">BCG 2018 Study</a>)</p>
+              <p>Within First Round Capital’s portfolio, companies with a female founder performed <b class="blue-text">63% better</b> than all-male founding teams. (Source: <a href="http://10years.firstround.com/">First Round Capital 10 Year Project</a>)</p>
             </div>
           </div>
         </div>
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h5 class="mb-4">How you can be a part of The Loop</h5>
+          <div class="row align-items-center">
+            <div class="col-lg-6">
+            <img
+                class="img-fluid rounded mb-4 mb-lg-0"
+                src="images/conference.svg"
+                alt="Women Professional"
+              />
+            </div>
+            <div class="col-lg-6">
+              <h2 class="mb-4">But only 11.8% of startups have a female founder.</h2>
+              <p>(Source: <a href="http://10years.firstround.com/">2019 All Raise Annual Report</a>)</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row min-vh-100 py-4 px-4 my-4">
+        <div class="container my-auto">
+          <div class="row align-items-center">
+            <div class="col-lg-6">
+            <img
+                class="img-fluid rounded mb-4 mb-lg-0"
+                src="images/girls.svg"
+                alt="Women Together"
+              />
+            </div>
+            <div class="col-lg-6">
+              <h2 class="mb-4">We plan to change that.</h2>
+              <p>We support womxn at the earliest stages of the startup journey. The Loop is your community, whether you’re exploring an idea or getting ready to fundraise.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row min-vh-100 py-4 px-4 my-4">
+        <div class="container my-auto">
+          <h2 class="mb-4">How you can be a part of The Loop</h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
                 <div class="card mb-4 h-100">
                   <img src="images/friends_online_card_image.svg" class="card-img-top" alt="Community Card" />
                   <div class="card-body">
-                    <h6 class="card-title">Join the Community</h6>
-                    <p class="card-text">Connect with other founders and share advice and resources.</p>
+                    <h5 class="card-title">Join the Community</h5>
+                    <p class="card-text">Connect with other founders and grow your personal network.</p>
                     <a href="/Matching" class="btn btn-primary">Join Now</a>
                   </div>
                 </div>
@@ -60,8 +93,8 @@ function Home() {
                 <div class="card mb-4 h-100">
                   <img src="images/hang_out_card_image.svg" class="card-img-top" alt="Group Salons Card" />
                   <div class="card-body">
-                    <h6 class="card-title">Join a Group Salon</h6>
-                    <p class="card-text">Learn and connect with other founders in salons led by industry experts.</p>
+                    <h5 class="card-title">Join a Group Salon</h5>
+                    <p class="card-text">Join a cohort of 6 other womxn and learn about venture building from industry experts.</p>
                     <a href="/Groups" class="btn btn-primary">Join Waitlist</a>
                   </div>
                 </div>
@@ -70,7 +103,7 @@ function Home() {
               <div class="card mb-4 h-100">
                 <img src="images/teacher_card_image.svg" class="card-img-top" alt="Volunteer Card" />
                 <div class="card-body">
-                  <h6 class="card-title">Become a Volunteer</h6>
+                  <h5 class="card-title">Volunteer as a Mentor</h5>
                   <p class="card-text">Teach and support the next generation of female founders.</p>
                   <a href="/Volunteer" class="btn btn-primary">Sign Up</a>
                 </div>

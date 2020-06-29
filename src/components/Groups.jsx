@@ -26,7 +26,7 @@ function Groups() {
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <h5>How it Works</h5>
-          <p>Group Salons will launch June 29th. Sessions are one hour per week for a month. They’re led by an outstanding group of mentors who have prior experience as operators, investors, and founders. Group Salons are free, and mentors support founders on a volunteer-basis. Choose from three tracks:</p>
+          <p>Sessions are one hour per week for a month. They’re led by an outstanding group of mentors who have prior experience as operators, investors, and founders. Group Salons are free, and mentors support founders on a volunteer-basis. Choose from three tracks:</p>
           <div class="row">
             <div class="col-md-6 col-lg-4 col-12 mb-4">
               <h6>Develop your venture</h6>
@@ -36,7 +36,7 @@ function Groups() {
                 alt="Track 1"
               />
               <p><b>Ideate, Plan & Build</b><br /><br />Topics covered: problem discovery, market research, ideating, & user research.</p>
-              <button type="button" class="btn btn-primary">Sign up</button>
+              <button type="button" class="btn btn-primary">Join the Waitlist</button>
             </div>
             <div class="col-md-6 col-lg-4 col-12 mb-4">
               <h6>Launch your startup</h6>
@@ -46,7 +46,7 @@ function Groups() {
                 alt="Track 2"
               />
               <p><b>MVP, Sell, & Test</b><br /><br />Topics covered: design, prototyping, market experiments, & sales tests.</p>
-              <button type="button" class="btn btn-primary">Sign up</button>
+              <button type="button" class="btn btn-primary">Join the Waitlist</button>
             </div>
             <div class="col-md-6 col-lg-4 col-12 mb-4">
               <h6>Scale your company</h6>
@@ -56,15 +56,9 @@ function Groups() {
                 alt="Track 3"
               />
               <p><b>Grow, Hire, & Fundraise</b><br /><br />Topics covered: hiring, fundraising, sales, & pricing.</p>
-              <button type="button" class="btn btn-primary">Sign up</button>
+              <button type="button" class="btn btn-primary">Join the Waitlist</button>
             </div>
           </div>
-        </div>
-      </div>
-      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
-        <div class="container my-auto">
-        <h2>Group Salons will launch June 29th. Sign up by June 22nd to get your spot.</h2><br />
-        <button type="button" class="btn btn-primary">Sign up</button>
         </div>
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">

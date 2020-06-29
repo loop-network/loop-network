@@ -9,7 +9,7 @@ function Community() {
           <div class="col-lg-5 mb-4">
               <h1>Our Community</h1>
               <p>
-                Find other women founders to connect and collaborate.  
+                Find other women founders to connect, collaborate, and expand your personal network within The Loop community. 
               </p>
             </div>
             <div class="col-lg-7">
@@ -41,7 +41,7 @@ function Community() {
                 <div class="card-body">
                   <h5 class="card-title">Our Directory of Womxn</h5>
                   <p class="card-text">Access the Directory to reach out directly to other interesting womxn.</p>
-                  <a href="/Groups" class="btn btn-cta">Go to Directory</a>
+                  <a href="/Groups" class="btn btn-cta">Access Directory</a>
                 </div>
               </div>
             </div>

@@ -9,7 +9,7 @@ function About() {
             <div class="col-lg-5">
               <h1>Our Team</h1>
               <p>
-                More in-depth description of our team - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                The Loop was founded in 2020 by Sri Muppidi. We are a team of nine women dedicated to supporting female founders and entrepreneurs. 
               </p>
             </div>
             <div class="col-lg-7">
@@ -22,113 +22,109 @@ function About() {
           </div>
         </div>
       </div>
-      <section>
-        <div class="container">
-          <div class="card-deck">
-            <h1>Our Founder</h1>
-            <div class="row row-cols-3 row-cols-md-3">
-              <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Sri.png" class="card-img-top" alt="One on Ones Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Sri Muppidi</h5>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
-         
-      
-          <div class="card-deck my-5">
-            <h1>Marketing Team</h1>
-            <div class="row row-cols-3 row-cols-md-3">
-
-            <div class="col mb-3">
-                  <div class="card">
-                    <img src="/profiles/Julie.jpg" class="card-img-top" alt="Group Salons Card" />
-                    <div class="card-body">
-                      <h5 class="card-title">Julie</h5>
-                    </div>
-                  </div>
-                </div>
-                <div class="col mb-3">
-                  <div class="card">
-                    <img src="/profiles/Iris.png" class="card-img-top" alt="Group Salons Card" />
-                    <div class="card-body">
-                      <h5 class="card-title">Iris</h5>
-                    </div>
-                  </div>
-                </div>
-              <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Michelle.jpg" class="card-img-top" alt="One on Ones Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Michelle</h5>
-                  </div>
-                </div>
-              </div>
-                <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Fernanda.png" class="card-img-top" alt="Group Salons Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Fernanda</h5>
-                  </div>
-                </div>
-              </div>
-            
-            </div>
-          </div>
-            <div class="container my-auto">
-              <div class="card-deck my-5">
-                <h1>Product Team</h1>
-                <div class="row row-cols-3 row-cols-md-3">
-              <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Annie.JPG" class="card-img-top" alt="Group Salons Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Annie</h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col mb-3">
-                <div class="card">
-                  <img src="/profiles/Sophia.jpg" class="card-img-top" alt="Group Salons Card" />
-                  <div class="card-body">
-                    <h5 class="card-title">Sophia</h5>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div class="row py-4 px-4 my-4">
         <div class="container my-auto">
-          <div class="card-deck-my-5">
-            <h1>Community Team</h1>
-              <div class="row row-cols-3 row-cols-md-3">
-                <div class="col mb-3">
-                  <div class="card">
-                    <img src="/profiles/Sara.jpg" class="card-img-top" alt="One on Ones Card" />
-                    <div class="card-body">
-                      <h5 class="card-title">Sara</h5>
-                    </div>
-                  </div>
+          <h4 class="mb-4">Our Founder</h4>
+          <div class="card-deck">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+                <img src="/profiles/Sri.png" class="card-img-top" alt="Sri Muppidi" />
+                <div class="card-body">
+                  <h5 class="card-title">Sri Muppidi</h5>
                 </div>
-                <div class="col mb-3">
-                  <div class="card">
-                    <img src="/profiles/Aina.jpg" class="card-img-top" alt="Group Salons Card" />
-                    <div class="card-body">
-                      <h5 class="card-title">Aina</h5>
-                    </div>
-                  </div>
-                </div>
-              
               </div>
             </div>
           </div>
         </div>
-      </section>
-      
+      </div>
+
+      <div class="row py-4 px-4 my-4">
+        <div class="container my-auto">
+          <h4 class="mb-4">Marketing Team</h4>
+          <div class="card-deck">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Julie.jpg" class="card-img-top" alt="Julie Wang" />
+                <div class="card-body">
+                  <h5 class="card-title">Julie Wang</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Iris.png" class="card-img-top" alt="Iris Zhou" />
+                <div class="card-body">
+                  <h5 class="card-title">Iris Zhou</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Michelle.jpg" class="card-img-top" alt="Michelle Fang" />
+                <div class="card-body">
+                  <h5 class="card-title">Michelle Fang</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Fernanda.png" class="card-img-top" alt="Fernanda Lopez" />
+                <div class="card-body">
+                  <h5 class="card-title">Fernanda Lopez</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row py-4 px-4 my-4">
+        <div class="container my-auto">
+          <h4 class="mb-4">Product Team</h4>
+          <div class="card-deck">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Annie.JPG" class="card-img-top" alt="Annie Lu" />
+                <div class="card-body">
+                  <h5 class="card-title">Annie Lu</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Sophia.jpg" class="card-img-top" alt="Sophia Ye" />
+                <div class="card-body">
+                  <h5 class="card-title">Sophia Ye</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row py-4 px-4 my-4">
+        <div class="container my-auto">
+          <h4 class="mb-4">Community Team</h4>
+          <div class="card-deck">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Sara.jpg" class="card-img-top" alt="Sara Dakin" />
+                <div class="card-body">
+                  <h5 class="card-title">Sara Dakin</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
+              <div class="card mb-4 h-100">
+              <img src="/profiles/Aina.jpg" class="card-img-top" alt="Aina Khan" />
+                <div class="card-body">
+                  <h5 class="card-title">Aina Khan</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>      
     </div>
   );
 }

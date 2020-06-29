@@ -83,22 +83,6 @@ function Navigation(props) {
             <ul class="navbar-nav ml-auto">
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/" ? "active" : ""
-                }`}
-              >
-                {currentUser? 
-                <Link class="nav-link" to="/" onClick={() => app.auth().signOut()}>
-                  Sign Out
-                  <span class="sr-only">(current)</span>
-                </Link> :
-                <Link class="nav-link" to="/signin">
-                  Sign in
-                  <span class="sr-only">(current)</span>
-                </Link>
-                }
-              </li>
-              <li
-                class={`nav-item  ${
                   props.location.pathname === "/matching" ? "active" : ""
                 }`}
               >

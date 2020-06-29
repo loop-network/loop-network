@@ -8,7 +8,7 @@ function Footer() {
     <div className="footer">
       <footer class="py-5 bg-white px-4 my-4">
         <div class="container">
-          <h1>Stay in the Loop</h1>
+          <h2>Stay in the Loop</h2>
           <div class="row">
             <div class="col-lg-6 mb-4">
               <h5>Receive content, events, and more.</h5>
