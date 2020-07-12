@@ -76,21 +76,18 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/about">
-                  About
+                  Team
                 </Link>
+              </li>
+              <li>
+                <a class="nav-link" href="https://medium.com/the-loop-network">
+                  Blog
+                </a>
               </li>
             </ul>
             <ul class="navbar-nav ml-auto">
-              <li
-                class={`nav-item  ${
-                  props.location.pathname === "/matching" ? "active" : ""
-                }`}
-              >
-                {currentUser? 
-                <button onClick = {() => history.push("/profile")} class="btn btn-primary">Profile</button>
-                :
-                <button onClick = {() => history.push("/signup")} class="btn btn-primary">Join Us</button>
-                }
+              <li>
+                <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button class="btn btn-primary">Join Us</button></a>
               </li>
             </ul>
           </div>

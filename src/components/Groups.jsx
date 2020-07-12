@@ -6,12 +6,13 @@ function Groups() {
       <div class="row first py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
-          <div class="col-lg-5 mb-4">
+            <div class="col-lg-5 mb-4">
               <h1>Group Salons</h1>
               <p>
               Our Group Salons are aimed at founders looking to build their skills. <br /><br />
               Best part is that they’re free! Facilitated by investors and operators, Group Salons focus on a variety of topics, ranging from need-finding to scaling your startup. You’ll be in a group of other founders at the same stage as you to get the community and accountability you need to be on on the right track. Group Salons are free and are facilitated by industry mentors on a volunteer basis. 
               </p>
+              <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
             </div>
             <div class="col-lg-7">
               <img
@@ -36,7 +37,6 @@ function Groups() {
                 alt="Track 1"
               />
               <p><b>Ideate, Plan & Build</b><br /><br />Topics covered: problem discovery, market research, ideating, & user research.</p>
-              <button type="button" class="btn btn-primary">Join the Waitlist</button>
             </div>
             <div class="col-md-6 col-lg-4 col-12 mb-4">
               <h6>Launch your startup</h6>
@@ -46,7 +46,6 @@ function Groups() {
                 alt="Track 2"
               />
               <p><b>MVP, Sell, & Test</b><br /><br />Topics covered: design, prototyping, market experiments, & sales tests.</p>
-              <button type="button" class="btn btn-primary">Join the Waitlist</button>
             </div>
             <div class="col-md-6 col-lg-4 col-12 mb-4">
               <h6>Scale your company</h6>
@@ -56,8 +55,10 @@ function Groups() {
                 alt="Track 3"
               />
               <p><b>Grow, Hire, & Fundraise</b><br /><br />Topics covered: hiring, fundraising, sales, & pricing.</p>
-              <button type="button" class="btn btn-primary">Join the Waitlist</button>
             </div>
+          </div>
+          <div class="row">
+            <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
           </div>
         </div>
       </div>

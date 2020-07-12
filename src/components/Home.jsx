@@ -11,7 +11,7 @@ function Home() {
               <p>
               The Loop is a community for womxn who want to take the entrepreneurial leap.
               </p>
-              <button type="button" class="btn btn-primary">Join The Loop</button>
+              <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button type="button" class="btn btn-primary">Join The Loop</button></a>
             </div>
             <div class="col-lg-6">
               <img
@@ -85,7 +85,7 @@ function Home() {
                   <div class="card-body">
                     <h5 class="card-title">Join the Community</h5>
                     <p class="card-text">Connect with other founders and grow your personal network.</p>
-                    <a href="/Matching" class="btn btn-primary">Join Now</a>
+                    <a href="/Community" class="btn btn-primary">Learn More</a>
                   </div>
                 </div>
             </div>
@@ -95,7 +95,7 @@ function Home() {
                   <div class="card-body">
                     <h5 class="card-title">Join a Group Salon</h5>
                     <p class="card-text">Join a cohort of 6 other womxn and learn about venture building from industry experts.</p>
-                    <a href="/Groups" class="btn btn-primary">Join Waitlist</a>
+                    <a href="/Groups" class="btn btn-primary">Learn More</a>
                   </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@ function Home() {
                 <div class="card-body">
                   <h5 class="card-title">Volunteer as a Mentor</h5>
                   <p class="card-text">Teach and support the next generation of female founders.</p>
-                  <a href="/Volunteer" class="btn btn-primary">Sign Up</a>
+                  <a href="/Volunteer" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
             </div>

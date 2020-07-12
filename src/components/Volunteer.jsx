@@ -11,7 +11,7 @@ function Volunteer() {
               <p>
               Want to help? We’re looking for mentors.
               </p>
-              <button type="button" class="btn btn-primary">Sign up</button>
+              <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up</button></a>
             </div>
             <div class="col-lg-7">
               <img
@@ -57,14 +57,14 @@ function Volunteer() {
             </div>
           </div>
           <div class="row">
-          <button type="button" class="btn btn-primary">Check out our Mentor Guide</button>
+          <a href="https://www.notion.so/The-Loop-Network-9b0875c49a834e4880976c67131c9fec"><button type="button" class="btn btn-primary">Check out our Mentor Guide</button></a>
           </div>
         </div>
       </div>
       <div class="row min-vh-100 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
         <h2>Ready to sign up? Help the next generation of female founders.</h2>
-        <button type="button" class="btn btn-primary">Sign up</button>
+        <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up</button></a>
         </div>
       </div>
     </div>
