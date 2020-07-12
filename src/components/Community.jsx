@@ -75,18 +75,18 @@ function Community() {
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
               <div class="card mb-4">
                 <div class="card-body yellow-background">
-                  <p class="card-text">"Hoping to start up a business!"</p>
+                  <p class="card-text">"I founded a non-profit organization called SavingTakeouts to provide small businesses owners the technological resources and knowledge to compete with more modern establishments in these trying times. Over 100k small businesses have closed since the pandemic. This isn't just an issue caused by COVID-19; restaurants that have been in business for decades have continuously been displaced by gentrification. These mom and pop shops are valuable; we just need people to start recognizing them."</p>
                 </div>
                 <div class="card-body">
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/Kay_Lucas.jpg" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Joyce_Chan.png" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">
-                      <p class="card-title"><b>Kay Lucas</b></p>
-                      <p class="card-subtitle mb-2 text-muted">Retail Sales Consulant at Carphone Warehouse</p>
+                      <p class="card-title"><b>Joyce Chan</b></p>
+                      <p class="card-subtitle mb-2 text-muted">Founder of Saving Takeouts</p>
                     </div>
                   </div>
                 </div>
