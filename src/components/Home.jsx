@@ -64,7 +64,7 @@ function Home() {
             <div class="col-lg-6">
             <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/girls.svg"
+                src="images/women_together.svg"
                 alt="Women Together"
               />
             </div>
@@ -119,18 +119,18 @@ function Home() {
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
                 <div class="card mb-4">
                 <div class="card-body yellow-background">
-                  <p class="card-text">"I absolutely love this platform and engage with it every day! Changed my life. Here are more words of praise and this is a long testimonial. I love The Loop Network and I recommend all women founders join!"</p>
+                  <p class="card-text">"I absolutely love the network and community that The Loop has built! I have a few friends who work in the internal team and am all the more excited to see their efforts and enthusiasm about The Loop transform into a reality! I also love the aspect of women empowerment in the business field as that's always so important and moving to be a part of. Go Loop!!"</p>
                 </div>
                 <div class="card-body">
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/example_headshot.jpg" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Naomi_Lee.png" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">
-                      <p class="card-title"><b>Melinda Gates</b></p>
-                      <p class="card-subtitle mb-2 text-muted">Co-founder of the Gates Foundation</p>
+                      <p class="card-title"><b>Naomi Lee</b></p>
+                      <p class="card-subtitle mb-2 text-muted">Founder of LEAP USA</p>
                     </div>
                 </div>
                 </div>
@@ -139,18 +139,18 @@ function Home() {
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
               <div class="card mb-4">
                 <div class="card-body yellow-background">
-                  <p class="card-text">"I absolutely love this platform and engage with it every day! Changed my life. This is a shorter testimonial."</p>
+                  <p class="card-text">"Only 11.8% of startups have a female founder. This statistic is astonishing to me. As someone who has always had a passion for entrepreneurship, the Loop is an amazing network of female founders. I am so inspired already by the amazing interviews and opportunities for learning on this platform."</p>
                 </div>
                 <div class="card-body">
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/example_headshot.jpg" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Trinity_Torres.jpg" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">
-                      <p class="card-title"><b>Melinda Gates</b></p>
-                      <p class="card-subtitle mb-2 text-muted">Co-founder of the Gates Foundation</p>
+                      <p class="card-title"><b>Trinity Torres</b></p>
+                      <p class="card-subtitle mb-2 text-muted">Global Commercial Strategy Analyst at Hilton</p>
                     </div>
                   </div>
                 </div>

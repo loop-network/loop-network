@@ -55,18 +55,18 @@ function Community() {
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
                 <div class="card mb-4">
                 <div class="card-body yellow-background">
-                  <p class="card-text">"I absolutely love this platform and engage with it every day! Changed my life. Here are more words of praise and this is a long testimonial. I love The Loop Network and I recommend all women founders join!"</p>
+                  <p class="card-text">"I'm starting a company called Nuuri, a nutrition telehealth platform! As well, I'm a co-leader of a nonprofit political coalition called Free The Period CA, dedicated to menstrual health. Recently I won the Reducing Carbon "Food"print challenge of FoodTechies Finland's Feeding the Future Hackathon with a pitch I created in 48 hours, winning 2500 EUR and an opportunity to compete in a pilot program!"</p>
                 </div>
                 <div class="card-body">
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/example_headshot.jpg" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Rachael_Deng.png" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">
-                      <p class="card-title"><b>Melinda Gates</b></p>
-                      <p class="card-subtitle mb-2 text-muted">Co-founder of the Gates Foundation</p>
+                      <p class="card-title"><b>Rachael Deng</b></p>
+                      <p class="card-subtitle mb-2 text-muted">Co-founder of PERIOD@Berkeley</p>
                     </div>
                 </div>
                 </div>
@@ -75,18 +75,18 @@ function Community() {
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
               <div class="card mb-4">
                 <div class="card-body yellow-background">
-                  <p class="card-text">"I absolutely love this platform and engage with it every day! Changed my life. This is a shorter testimonial."</p>
+                  <p class="card-text">"Hoping to start up a business!"</p>
                 </div>
                 <div class="card-body">
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/example_headshot.jpg" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Kay_Lucas.jpg" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">
-                      <p class="card-title"><b>Melinda Gates</b></p>
-                      <p class="card-subtitle mb-2 text-muted">Co-founder of the Gates Foundation</p>
+                      <p class="card-title"><b>Kay Lucas</b></p>
+                      <p class="card-subtitle mb-2 text-muted">Retail Sales Consulant at Carphone Warehouse</p>
                     </div>
                   </div>
                 </div>
