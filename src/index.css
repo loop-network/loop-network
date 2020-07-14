@@ -105,3 +105,25 @@ h1 {
 .yellow-background {
   background-color: #FEDDB6;
 }
+
+/* Mailchimp Signup */
+
+#mc_embed_signup form {
+  display:block; 
+  position:relative; 
+  text-align:left; 
+  padding:0;
+}
+
+#mc_embed_signup input.btn {
+  border: none;
+}
+
+#mce-EMAIL {
+  width: 80%;
+}
+
+#some-box {
+  position: absolute; 
+  left: -5000px; 
+}
