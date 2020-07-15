@@ -29,9 +29,8 @@ function Footer() {
             <div class="col-lg-6">
               <h5 class="mb-2">Contact us and stay updated.</h5>
               <p><FontAwesomeIcon icon={faEnvelopeSquare} /> helloloopnetwork@gmail.com</p>
-              <p><FontAwesomeIcon icon={faLinkedin} /> @helloloopnetwork</p>
-              <p><FontAwesomeIcon icon={faTwitter} /> @helloloopnetwork</p>
-              <p><FontAwesomeIcon icon={faInstagram} /> @helloloopnetwork</p>
+              <p><FontAwesomeIcon icon={faLinkedin} /> <a href="https://www.linkedin.com/company/the-loop-network">@helloloopnetwork</a></p>
+              <p><FontAwesomeIcon icon={faInstagram} /> <a href="https://www.instagram.com/helloloopnetwork/">@helloloopnetwork</a></p>
             </div>
           </div>
           <br />
