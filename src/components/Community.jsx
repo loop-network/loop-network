@@ -15,7 +15,7 @@ function Community() {
             <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/community-header.svg"
+                src="illustrations/community-header.svg"
                 alt="Community"
               />
             </div>
@@ -27,7 +27,7 @@ function Community() {
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 align-items-stretch mb-4">
               <div class="card mb-4 h-100">
-                <img src="images/slack_chat.svg" class="card-img-top larger-card" alt="One on Ones Card" />
+                <img src="illustrations/slack_chat.svg" class="card-img-top larger-card" alt="One on Ones Card" />
                 <div class="card-body">
                   <h5 class="card-title">Our Slack Workspace</h5>
                   <p class="card-text">Join the Slack community to be a part of the conversation.</p>
@@ -37,7 +37,7 @@ function Community() {
             </div>
             <div class="col-md-6 col-lg-6 col-12 align-items-stretch mb-4">
               <div class="card mb-4 h-100">
-                <img src="images/women_directory.svg" class="card-img-top larger-card" alt="Group Salons Card" />
+                <img src="illustrations/women_directory.svg" class="card-img-top larger-card" alt="Group Salons Card" />
                 <div class="card-body">
                   <h5 class="card-title">Our Directory of Womxn</h5>
                   <p class="card-text">Access the Directory to reach out directly to other interesting womxn.</p>

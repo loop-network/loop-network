@@ -16,7 +16,7 @@ function Volunteer() {
             <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/teacher_large.svg"
+                src="illustrations/teacher_large.svg"
                 alt="Volunteer"
               />
             </div>
@@ -32,7 +32,7 @@ function Volunteer() {
               <h5>Who is this for?</h5>
               <img
                 class="img-fluid rounded mb-4 mb-lg-2"
-                src="images/things_to_say.svg"
+                src="illustrations/things_to_say.svg"
                 alt="Female professional"
               />
               <p>We are looking for investors, operators, and founders across all experience levels, from executives to analysts. No prior mentorship experience needed.</p>
@@ -41,7 +41,7 @@ function Volunteer() {
               <h5>What’s the commitment?</h5>
               <img
                 class="img-fluid rounded mb-4 mb-lg-2"
-                src="images/time_management.svg"
+                src="illustrations/time_management.svg"
                 alt="Time commitment"
               />
               <p>An hour per week for a month. That’s just 4 hours.</p>
@@ -50,7 +50,7 @@ function Volunteer() {
               <h5>What do I do?</h5>
               <img
                 class="img-fluid rounded mb-4 mb-lg-2"
-                src="images/conference_call.svg"
+                src="illustrations/conference_call.svg"
                 alt="Check in"
               />
               <p>Your job is to check in with a small cohort of founders and facilitate a conversation on that week’s topic. We take care of the programming and content.</p>
@@ -120,7 +120,7 @@ function Volunteer() {
           <div class="col-lg-6">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="images/key_points.svg"
+              src="illustrations/key_points.svg"
               alt="Teaching"
             />
           </div>

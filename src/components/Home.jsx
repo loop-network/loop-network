@@ -16,7 +16,7 @@ function Home() {
             <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/women_day.svg"
+                src="illustrations/women_day.svg"
                 alt="Women Empowered"
               />
             </div>
@@ -29,7 +29,7 @@ function Home() {
             <div class="col-lg-6">
             <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/investment_data.svg"
+                src="illustrations/investment_data.svg"
                 alt="Women Investment"
               />
             </div>
@@ -47,7 +47,7 @@ function Home() {
             <div class="col-lg-6">
             <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/conference.svg"
+                src="illustrations/conference.svg"
                 alt="Women Professional"
               />
             </div>
@@ -64,7 +64,7 @@ function Home() {
             <div class="col-lg-6">
             <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/women_together.svg"
+                src="illustrations/women_together.svg"
                 alt="Women Together"
               />
             </div>
@@ -81,7 +81,7 @@ function Home() {
           <div class="card-deck">
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
                 <div class="card mb-4 h-100">
-                  <img src="images/friends_online_card_image.svg" class="card-img-top" alt="Community Card" />
+                  <img src="illustrations/friends_online_card_image.svg" class="card-img-top" alt="Community Card" />
                   <div class="card-body">
                     <h5 class="card-title">Join the Community</h5>
                     <p class="card-text">Connect with other founders and grow your personal network.</p>
@@ -91,7 +91,7 @@ function Home() {
             </div>
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
                 <div class="card mb-4 h-100">
-                  <img src="images/hang_out_card_image.svg" class="card-img-top" alt="Group Salons Card" />
+                  <img src="illustrations/hang_out_card_image.svg" class="card-img-top" alt="Group Salons Card" />
                   <div class="card-body">
                     <h5 class="card-title">Join a Group Salon</h5>
                     <p class="card-text">Join a cohort of 6 other womxn and learn about venture building from industry experts.</p>
@@ -101,7 +101,7 @@ function Home() {
             </div>
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
               <div class="card mb-4 h-100">
-                <img src="images/teacher_card_image.svg" class="card-img-top" alt="Volunteer Card" />
+                <img src="illustrations/teacher_card_image.svg" class="card-img-top" alt="Volunteer Card" />
                 <div class="card-body">
                   <h5 class="card-title">Volunteer as a Mentor</h5>
                   <p class="card-text">Teach and support the next generation of female founders.</p>

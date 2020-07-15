@@ -17,7 +17,7 @@ function Groups() {
             <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/hang_out_large.svg"
+                src="illustrations/hang_out_large.svg"
                 alt="Group Salons"
               />
             </div>
@@ -33,7 +33,7 @@ function Groups() {
               <h5>Develop your venture</h5>
               <img
                 class="img-fluid rounded mb-4 mb-lg-2"
-                src="images/plans.svg"
+                src="illustrations/plans.svg"
                 alt="Track 1"
               />
               <p><b>Ideate, Plan & Build</b><br /><br />Topics covered: problem discovery, market research, ideating, & user research.</p>
@@ -42,7 +42,7 @@ function Groups() {
               <h5>Launch your startup</h5>
               <img
                 class="img-fluid rounded mb-4 mb-lg-2"
-                src="images/maker_launch.svg"
+                src="illustrations/maker_launch.svg"
                 alt="Track 2"
               />
               <p><b>MVP, Sell, & Test</b><br /><br />Topics covered: design, prototyping, market experiments, & sales tests.</p>
@@ -51,7 +51,7 @@ function Groups() {
               <h5>Scale your company</h5>
               <img
                 class="img-fluid rounded mb-4 mb-lg-2"
-                src="images/progress_data.svg"
+                src="illustrations/progress_data.svg"
                 alt="Track 3"
               />
               <p><b>Grow, Hire, & Fundraise</b><br /><br />Topics covered: hiring, fundraising, sales, & pricing.</p>

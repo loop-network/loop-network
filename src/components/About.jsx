@@ -15,8 +15,8 @@ function About() {
             <div class="col-lg-7">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="images/remote_team.svg"
-                alt=""
+                src="illustrations/remote_team.svg"
+                alt="Team"
               />
             </div>
           </div>
