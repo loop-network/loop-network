@@ -1,5 +1,5 @@
 import React from "react";
-import FlipCard from "./FlipCard";
+
 import { Flippy, FrontSide, BackSide } from 'react-flippy';
 function About() {
   return (
