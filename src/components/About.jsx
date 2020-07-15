@@ -1,5 +1,6 @@
 import React from "react";
-
+import FlipCard from "./FlipCard";
+import { Flippy, FrontSide, BackSide } from 'react-flippy';
 function About() {
   return (
     <div className="about">
@@ -83,12 +84,26 @@ function About() {
           <h2 class="mb-4">Product Team</h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
-              <div class="card mb-4 h-100">
-              <img src="/profiles/Annie.JPG" class="card-img-top" alt="Annie Lu" />
-                <div class="card-body">
-                  <h5 class="card-title">Annie Lu</h5>
-                </div>
-              </div>
+            <Flippy
+                    flipOnHover={false} // default false
+                    flipOnClick={true} // default false
+                    flipDirection="horizontal"
+                >
+                <FrontSide
+                  
+                >
+                      <img src="/profiles/Annie.JPG" class="card-img-top" alt="Annie Lu" />
+                        <div class="card-body">
+                          <h5 class="card-title">Annie Lu</h5>
+                        </div>
+                      
+                </FrontSide>
+                <BackSide
+                    >
+                        Back
+                </BackSide>
+
+        </Flippy>
             </div>
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
               <div class="card mb-4 h-100">
