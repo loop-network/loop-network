@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/loop-network/static/css/main.e6b0cfd8.chunk.css",
+    "main.js": "/loop-network/static/js/main.56591a62.chunk.js",
+    "main.js.map": "/loop-network/static/js/main.56591a62.chunk.js.map",
+    "runtime-main.js": "/loop-network/static/js/runtime-main.dabb34ba.js",
+    "runtime-main.js.map": "/loop-network/static/js/runtime-main.dabb34ba.js.map",
+    "static/js/2.d338abab.chunk.js": "/loop-network/static/js/2.d338abab.chunk.js",
+    "static/js/2.d338abab.chunk.js.map": "/loop-network/static/js/2.d338abab.chunk.js.map",
+    "index.html": "/loop-network/index.html",
+    "precache-manifest.75ab39f22d646401e54f7f9b92886b9d.js": "/loop-network/precache-manifest.75ab39f22d646401e54f7f9b92886b9d.js",
+    "service-worker.js": "/loop-network/service-worker.js",
+    "static/css/main.e6b0cfd8.chunk.css.map": "/loop-network/static/css/main.e6b0cfd8.chunk.css.map",
+    "static/js/2.d338abab.chunk.js.LICENSE.txt": "/loop-network/static/js/2.d338abab.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/loop-network/static/media/now-bold-webfont.d8c209ae.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dabb34ba.js",
+    "static/js/2.d338abab.chunk.js",
+    "static/css/main.e6b0cfd8.chunk.css",
+    "static/js/main.56591a62.chunk.js"
+  ]
+}
