@@ -92,6 +92,10 @@ h1 {
   height: 80px;
 }
 
+.min-vh-80 { 
+  min-height: 80vh; 
+}
+
 .speaker {
   width: 100%;
   min-height: 5vw;

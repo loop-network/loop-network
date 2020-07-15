@@ -12,6 +12,7 @@ function Volunteer() {
               Want to help? We’re looking for mentors.
               </p>
               <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up</button></a>
+              <a href="https://docs.google.com/document/d/1YH27NePc-BfpFGou4LGAajfDN4PEnioU3ctI5aGr5wc/edit"><button type="button" class="btn btn-outline-primary ml-2">Check out our Mentor Guide</button></a>
             </div>
             <div class="col-lg-6">
               <img
@@ -56,9 +57,6 @@ function Volunteer() {
               <p>Your job is to check in with a small cohort of founders and facilitate a conversation on that week’s topic. We take care of the programming and content.</p>
             </div>
           </div>
-          <div class="row">
-          <a href="https://docs.google.com/document/d/1YH27NePc-BfpFGou4LGAajfDN4PEnioU3ctI5aGr5wc/edit"><button type="button" class="btn btn-primary">Check out our Mentor Guide</button></a>
-          </div>
         </div>
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
@@ -76,7 +74,7 @@ function Volunteer() {
               <h5>Dana Kim</h5>
               <p>
               Dana Kim is the founder of Showcase Insights and has former experience as an Investment Fellow at Amplifyher Ventures, Associate Director of Qualitative Research and Strategy at Kelton Global, and Wings Team Member at Red Bull. 
-              She is currently pursuing her MBA at prestigious The Wharton School and has an extensive background in market research (which gave her the idea for Showcase)!
+              She is currently pursuing her MBA at the prestigious Wharton School and has an extensive background in market research (which gave her the idea for Showcase)!
               </p>
             </div>
           </div>
@@ -127,6 +125,7 @@ function Volunteer() {
           <div class="col-lg-6 mb-4">
             <h2>Ready to sign up? Help the next generation of female founders.</h2>
             <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up now</button></a>
+            <a href="https://docs.google.com/document/d/1YH27NePc-BfpFGou4LGAajfDN4PEnioU3ctI5aGr5wc/edit"><button type="button" class="btn btn-outline-primary ml-2">Check out our Mentor Guide</button></a>
           </div>
           
         </div>
