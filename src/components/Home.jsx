@@ -114,7 +114,7 @@ function Home() {
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h5></h5>
+        <h2 class="mb-4">Be a part of our community</h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
                 <div class="card mb-4">

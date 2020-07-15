@@ -6,14 +6,14 @@ function Volunteer() {
       <div class="row first py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center my-5">
-          <div class="col-lg-5 mb-4">
+          <div class="col-lg-6 mb-4">
               <h1>Volunteer</h1>
               <p>
               Want to help? We’re looking for mentors.
               </p>
               <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up</button></a>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src="images/teacher_large.svg"
@@ -25,7 +25,7 @@ function Volunteer() {
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h2>How it Works</h2>
+          <h2>How it works</h2>
           <p>Group Salons will launch June 29th. Sessions are one hour per week for a month. We need an outstanding group of mentors to coach current and future founders who hope to develop, launch, and scale their startups.</p>
           <div class="row">
             <div class="col-md-6 col-lg-4 col-12 mb-4">
@@ -63,7 +63,7 @@ function Volunteer() {
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h2>Our Current Team of Mentors</h2>
+          <h2>Our current team of mentors</h2>
           <div class="row align-items-center my-5">
             <div class="col-lg-3">
               <img
@@ -116,11 +116,23 @@ function Volunteer() {
       </div>
       <div class="row min-vh-100 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
-        <h2>Ready to sign up? Help the next generation of female founders.</h2>
-        <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up</button></a>
+        <div class="row align-items-center my-5">
+          <div class="col-lg-6">
+            <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="images/key_points.svg"
+              alt="Teaching"
+            />
+          </div>
+          <div class="col-lg-6 mb-4">
+            <h2>Ready to sign up? Help the next generation of female founders.</h2>
+            <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up now</button></a>
+          </div>
+          
         </div>
       </div>
     </div>
+  </div>
   );
 }
 

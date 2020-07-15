@@ -6,7 +6,7 @@ function Groups() {
       <div class="row first py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
-            <div class="col-lg-5 mb-4">
+            <div class="col-lg-6 mb-4">
               <h1>Group Salons</h1>
               <p>
               Our Group Salons are aimed at founders looking to build their skills. <br /><br />
@@ -14,7 +14,7 @@ function Groups() {
               </p>
               <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src="images/hang_out_large.svg"
@@ -26,7 +26,7 @@ function Groups() {
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h2>How it Works</h2>
+          <h2>How it works</h2>
           <p>Sessions are one hour per week for a month. They’re led by an outstanding group of mentors who have prior experience as operators, investors, and founders. Group Salons are free, and mentors support founders on a volunteer-basis. Choose from three tracks:</p>
           <div class="row">
             <div class="col-md-6 col-lg-4 col-12 mb-4">
@@ -77,7 +77,7 @@ function Groups() {
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h5></h5>
+          <h2 class="mb-4">Some of our recent participants</h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
                 <div class="card mb-4">
@@ -88,7 +88,7 @@ function Groups() {
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/Naomi_Lee.png" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Cami_Tussie.jpg" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">
@@ -108,7 +108,7 @@ function Groups() {
                   <div class="row speaker">
                     <div class="col-md-3 col-lg-3 col-3 d-flex align-items-stretch">
                       <div class="avatar mx-auto">
-                        <img src="images/Trinity_Torres.jpg" class="rounded-circle z-depth-1 img-fluid" />
+                        <img src="images/Natasha_Hsu.jpg" class="rounded-circle z-depth-1 img-fluid" />
                       </div>
                     </div>
                     <div class="col-md-9 col-lg-9 col-9">

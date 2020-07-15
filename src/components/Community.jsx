@@ -6,13 +6,13 @@ function Community() {
       <div class = "row first py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
-          <div class="col-lg-5 mb-4">
+          <div class="col-lg-6 mb-4">
               <h1>Our Community</h1>
               <p>
                 Find other women founders to connect, collaborate, and expand your personal network within The Loop community. 
               </p>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src="images/community-header.svg"
@@ -50,12 +50,12 @@ function Community() {
       </div>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h5></h5>
+          <h2 class="mb-4">Connect with other female founders</h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
-                <div class="card mb-4">
+              <div class="card mb-4">
                 <div class="card-body yellow-background">
-                  <p class="card-text">"I'm starting a company called Nuuri, a nutrition telehealth platform! As well, I'm a co-leader of a nonprofit political coalition called Free The Period CA, dedicated to menstrual health. Recently I won the Reducing Carbon "Food"print challenge of FoodTechies Finland's Feeding the Future Hackathon with a pitch I created in 48 hours, winning 2500 EUR and an opportunity to compete in a pilot program!"</p>
+                  <p class="card-text">"I'm starting a company called Nuuri, a nutrition telehealth platform! I'm also a co-leader of a nonprofit political coalition called Free The Period CA, dedicated to menstrual health. Recently I won the Reducing Carbon "Food" print challenge of FoodTechies Finland's Feeding the Future Hackathon with a pitch I created in 48 hours, winning 2500 EUR and an opportunity to compete in a pilot program!"</p>
                 </div>
                 <div class="card-body">
                   <div class="row speaker">
