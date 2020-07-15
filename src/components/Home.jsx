@@ -53,7 +53,7 @@ function Home() {
             </div>
             <div class="col-lg-6">
               <h2 class="mb-4">But only 11.8% of startups have a female founder.</h2>
-              <p>(Source: <a href="http://10years.firstround.com/">2019 All Raise Annual Report</a>)</p>
+              <p>(Source: <a href="https://allraise.org/assets/all-raise-annual-report-2019.pdf">2019 All Raise Annual Report</a>)</p>
             </div>
           </div>
         </div>

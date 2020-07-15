@@ -57,7 +57,7 @@ function Volunteer() {
             </div>
           </div>
           <div class="row">
-          <a href="https://www.notion.so/The-Loop-Network-9b0875c49a834e4880976c67131c9fec"><button type="button" class="btn btn-primary">Check out our Mentor Guide</button></a>
+          <a href="https://docs.google.com/document/d/1YH27NePc-BfpFGou4LGAajfDN4PEnioU3ctI5aGr5wc/edit"><button type="button" class="btn btn-primary">Check out our Mentor Guide</button></a>
           </div>
         </div>
       </div>

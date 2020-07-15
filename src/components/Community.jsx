@@ -31,7 +31,7 @@ function Community() {
                 <div class="card-body">
                   <h5 class="card-title">Our Slack Workspace</h5>
                   <p class="card-text">Join the Slack community to be a part of the conversation.</p>
-                  <a href="/Matching" class="btn btn-cta">Join Now</a>
+                  <a href="https://airtable.com/shrrfmA4aGM0GIZXF" class="btn btn-cta">Join Now</a>
                 </div>
               </div>
             </div>
@@ -41,7 +41,7 @@ function Community() {
                 <div class="card-body">
                   <h5 class="card-title">Our Directory of Womxn</h5>
                   <p class="card-text">Access the Directory to reach out directly to other interesting womxn.</p>
-                  <a href="/Groups" class="btn btn-cta">Access Directory</a>
+                  <a href="https://airtable.com/shrrfmA4aGM0GIZXF" class="btn btn-cta">Access Directory</a>
                 </div>
               </div>
             </div>
