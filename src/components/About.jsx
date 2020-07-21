@@ -50,7 +50,7 @@ function About() {
                     >
                     <div class="card-body">
                           <p class="card-text">
-                          Sri founded The Loop Network and is as an investor at Sierra Ventures. 
+                          Sri founded The Loop Network and is an investor at Sierra Ventures. 
                           Previously, she’s worked on her own startup, and at The Economist, The World Bank, Federal Reserve, and State Department.
                           She holds a BA in Economics and an MS in Management Science and Engineering from Stanford University.
                           </p>
