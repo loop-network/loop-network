@@ -3,7 +3,7 @@ import React from "react";
 function Groups() {
   return (
     <div className="groups">
-      <div class="row first py-4 px-4 mb-4">
+      <div class="row min-vh-75 py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
@@ -24,7 +24,7 @@ function Groups() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2>How it works</h2>
           <p>Sessions are one hour per week for a month. They’re led by an outstanding group of mentors who have prior experience as operators, investors, and founders. Group Salons are free, and mentors support founders on a volunteer-basis. Choose from three tracks:</p>
@@ -59,7 +59,7 @@ function Groups() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2>FAQ</h2>
           <ol>
@@ -72,7 +72,7 @@ function Groups() {
           </ol>
         </div>
       </div>
-      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
+      <div class="row min-vh-75 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center my-5">
             <div class="col-lg-6">
@@ -89,7 +89,7 @@ function Groups() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2 class="mb-4">Some of our recent participants</h2>
           <div class="card-deck">

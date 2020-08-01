@@ -74,6 +74,10 @@ h1 {
   padding: .375rem .75rem;
 }
 
+.black-text {
+  color: #212529 !important;
+}
+
 .card-img-top {
   width: 100%;
   min-height: 20vw;

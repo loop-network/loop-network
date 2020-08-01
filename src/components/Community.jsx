@@ -3,7 +3,7 @@ import React from "react";
 function Community() {
   return (
     <div className="community">
-      <div class = "row first py-4 px-4 mb-4">
+      <div class = "row min-vh-75 py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
           <div class="col-lg-6 mb-4">
@@ -22,8 +22,7 @@ function Community() {
           </div>
         </div>
       </div>
-      <iframe class="airtable-embed" src="https://airtable.com/embed/shrROEp0aUCF8CZ76?backgroundColor=yellow&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style={{background: "transparent"}}></iframe>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 align-items-stretch mb-4">
@@ -49,7 +48,7 @@ function Community() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2 class="mb-4">Connect with other female founders</h2>
           <div class="card-deck">

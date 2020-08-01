@@ -3,7 +3,7 @@ import React from "react";
 function Volunteer() {
   return (
     <div className="volunteer">
-      <div class="row first py-4 px-4 mb-4">
+      <div class="row min-vh-75 py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center my-5">
           <div class="col-lg-6 mb-4">
@@ -12,7 +12,7 @@ function Volunteer() {
               Want to help? We’re looking for mentors.
               </p>
               <a href="https://airtable.com/shr7icN2JGuwmRz9u"><button type="button" class="btn btn-primary">Sign up</button></a>
-              <a href="https://docs.google.com/document/d/1YH27NePc-BfpFGou4LGAajfDN4PEnioU3ctI5aGr5wc/edit"><button type="button" class="btn btn-outline-primary ml-2">Check out our Mentor Guide</button></a>
+              <a href="https://docs.google.com/document/d/1YH27NePc-BfpFGou4LGAajfDN4PEnioU3ctI5aGr5wc/edit"><button type="button" class="btn btn-outline-primary black-text ml-2">Check out our Mentor Guide</button></a>
             </div>
             <div class="col-lg-6">
               <img
@@ -24,7 +24,7 @@ function Volunteer() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2>How it works</h2>
           <p>Group Salons will launch June 29th. Sessions are one hour per week for a month. We need an outstanding group of mentors to coach current and future founders who hope to develop, launch, and scale their startups.</p>
@@ -59,7 +59,7 @@ function Volunteer() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2>Our current team of mentors</h2>
           <div class="row align-items-center my-5">
@@ -112,7 +112,7 @@ function Volunteer() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 blue-background py-4 px-4 my-4">
+      <div class="row min-vh-75 blue-background py-4 px-4 my-4">
         <div class="container my-auto">
         <div class="row align-items-center my-5">
           <div class="col-lg-6">

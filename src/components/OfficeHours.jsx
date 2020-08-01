@@ -3,7 +3,7 @@ import React from "react";
 function OfficeHours() {
   return (
     <div className="officehours">
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h1>Office Hours</h1>
           <p>

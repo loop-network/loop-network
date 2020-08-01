@@ -3,7 +3,7 @@ import React from "react";
 function Home() {
   return (
     <div className="home">
-      <div class="row first blue-background py-4 px-4 mb-4">
+      <div class="row min-vh-75 blue-background py-4 px-4 mb-4">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
@@ -23,7 +23,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-80 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6">
@@ -41,7 +41,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-80 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6">
@@ -58,7 +58,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-80 py-4 px-4 mt-4 mb-5">
+      <div class="row min-vh-75 py-4 px-4 mt-4 mb-5">
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6">
@@ -75,7 +75,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
           <h2 class="mb-4">How you can be a part of The Loop</h2>
           <div class="card-deck">
@@ -112,7 +112,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div class="row min-vh-100 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
         <h2 class="mb-4">Be a part of our community</h2>
           <div class="card-deck">
