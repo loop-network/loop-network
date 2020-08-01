@@ -22,6 +22,7 @@ function Community() {
           </div>
         </div>
       </div>
+      <iframe class="airtable-embed" src="https://airtable.com/embed/shrROEp0aUCF8CZ76?backgroundColor=yellow&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style={{background: "transparent"}}></iframe>
       <div class="row min-vh-100 py-4 px-4 my-4">
         <div class="container my-auto">
           <div class="card-deck">
