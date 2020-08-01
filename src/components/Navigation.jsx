@@ -89,7 +89,7 @@ function Navigation(props) {
                 </Link>
               </li>
               <li>
-                <a class="nav-link" href="https://medium.com/@helloloopnetwork">
+                <a class="nav-link" href="https://medium.com/@helloloopnetwork" target="_blank">
                   Blog
                 </a>
               </li>
