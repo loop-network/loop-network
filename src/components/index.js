@@ -9,3 +9,4 @@ export { default as SignUp } from "./SignUp";
 export { default as Onboard } from "./Onboard";
 export { default as Groups } from "./Groups";
 export { default as Volunteer } from "./Volunteer";
+export { default as OfficeHours } from "./OfficeHours";
