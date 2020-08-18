@@ -1,17 +1,12 @@
 import React, { useContext }  from "react";
 import { Link, withRouter, useHistory } from "react-router-dom";
-import { AuthContext } from "../firebase/Auth";
-import app from "../firebase/base";
+
 import "bootstrap/js/src/collapse.js";
 
 
 function Navigation(props) {
 
-  const history = useHistory();
-  const currentUser = useContext(AuthContext)["currentUser"];
-  console.log("hello from nav");
-  console.log(useContext(AuthContext));
-  console.log(currentUser);
+ 
 
   return (
     <div className="navigation">
@@ -68,6 +63,15 @@ function Navigation(props) {
               >
                 <Link class="nav-link" to="/officehours">
                   Office Hours
+                </Link>
+              </li>
+              <li
+                class={`nav-item  ${
+                  props.location.pathname === "/calendar" ? "active" : ""
+                }`}
+              >
+                <Link class="nav-link" to="/calendar">
+                  Calendar
                 </Link>
               </li>
               <li
