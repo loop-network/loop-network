@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Groups, Volunteer, OfficeHours, SignIn, SignUp, Onboard, Community} from "./components";
+import { Navigation, Footer, Home, About, Groups, Volunteer, OfficeHours, SignIn, SignUp, Onboard, Community, Calendar} from "./components";
 
 import { AuthProvider } from "./firebase/Auth";
 
@@ -20,6 +20,7 @@ function App() {
             <Route path="/signup" exact component={() => <SignUp />} />
             <Route path="/onboard" exact component={() => <Onboard />} />
             <Route path="/officehours" exact component={() => <OfficeHours />} />
+            <Route path="/calendar" exact component={() => <Calendar />} />
           </Switch>
           <Footer />
         </Router>
