@@ -1,7 +1,9 @@
 $theme-colors: (
-  primary: #f8c100
+  primary: #f8c100,
 );
 
-$headings-font-family: 'Now Bold';
+$headings-font-family: "Now Bold";
+
+$navbar-nav-link-padding-x: 1rem !important;
 
 @import "bootstrap";

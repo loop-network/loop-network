@@ -67,7 +67,7 @@ function Groups() {
             <li><b>How much does this cost?</b><br />Group Salons are free. They’re led by volunteer industry mentors, who are experienced investors, operators, and founders. Our mission is to simply increase the number of womxn launching startups.</li><br />
             <li><b>What's the time commitment?</b><br />Group Salons take place once a week over the course of a month for one hour. This will be 4 hours of meeting time with your mentor and other cohort participants. There will also be a syllabus for each track with optional readings and suggested assignments, which you will receive at the start of the salon.</li><br />
             <li><b>What happens during the group salon?</b><br />You will meet virtually with your cohort of other womxn founders and mentor over Zoom. The mentor will conduct a check-in and will facilitate a conversation between the founders in the group around the topics for that week. It’s encouraged that founders complete their recommended readings and assignments to get the most out of the discussions.</li><br />
-            <li><b>When's the next group salon?</b><br />The next Group Salon will be in September. Applications will be live soon!</li><br />
+            <li><b>When's the next group salon?</b><br />The next Group Salon will be in January, with applications being released in November. </li><br />
             <li><b>Who do I contact if I have questions?</b><br />Feel free to email the team at helloloopnetwork@gmail.com or Sri Muppidi at sri13muppidi@gmail.com.</li>
           </ol>
         </div>

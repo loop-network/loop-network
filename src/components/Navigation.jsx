@@ -84,18 +84,17 @@ function Navigation(props) {
                 </Link>
               </li>
               <li
-                class={`nav-item  ${
+                class={`nav-item dropdown  ${
                   props.location.pathname === "/about" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/about">
-                  Team
-                </Link>
-              </li>
-              <li>
-                <a class="nav-link" href="https://medium.com/@helloloopnetwork" target="_blank">
-                  Blog
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  About
                 </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <Link class="dropdown-item" to="/about">Team</Link>
+                  <a class="dropdown-item" href="https://medium.com/@helloloopnetwork" target="_blank">Blog</a>
+                </div>
               </li>
             </ul>
             <ul class="navbar-nav ml-auto">
