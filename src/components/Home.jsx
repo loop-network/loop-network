@@ -22,7 +22,9 @@ function Home() {
             </div>
           </div>
         </div> */}
-        <img class="img-fluid rounded mb-4 mb-lg-0" src = "illustrations/hourglass.png" />
+        <a href = "/hourglass">
+        <img class="img-fluid rounded mb-4 mb-lg-0" src = "illustrations/hourglass2.png" />
+        </a>
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">

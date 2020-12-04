@@ -14,11 +14,11 @@ function Hourglass() {
               <a href="https://www.eventbrite.com/e/hourglass-a-pitch-night-tickets-131147733401"><button type="button" class="btn btn-primary">Register Here</button></a>
             </div>
             <div class="col-lg-6">
-              <img
+              {/* <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src="illustrations/hang_out_large.svg"
                 alt="Group Salons"
-              />
+              /> */}
             </div>
           </div>
         </div>
