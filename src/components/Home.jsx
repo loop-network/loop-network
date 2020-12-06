@@ -16,7 +16,7 @@ function Home() {
             <div class="col-lg-6">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="illustrations/women_day.svg"
+                src="illustrations/homepage_graphic_new.svg"
                 alt="Women Empowered"
               />
             </div>
