@@ -3,8 +3,8 @@ import React from "react";
 function Home() {
   return (
     <div className="home">
-      <div class="row min-vh-75 white-background py-4 px-4 mb-4">
-        {/* <div class="container my-auto">
+      <div class="row min-vh-75 blue-background py-4 px-4 mb-4">
+        <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
               <h1 class="mb-4">The world needs more female founders.</h1>
@@ -21,10 +21,7 @@ function Home() {
               />
             </div>
           </div>
-        </div> */}
-        <a href = "/hourglass">
-        <img class="img-fluid rounded mb-4 mb-lg-0" src = "illustrations/hourglass2.png" />
-        </a>
+        </div>
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">

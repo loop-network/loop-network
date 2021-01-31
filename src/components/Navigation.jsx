@@ -40,15 +40,6 @@ function Navigation(props) {
               </li>
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/hourglass" ? "active" : ""
-                }`}
-              >
-                <Link class="nav-link" to="/hourglass">
-                  HourGlass
-                </Link>
-              </li>
-              <li
-                class={`nav-item  ${
                   props.location.pathname === "/community" ? "active" : ""
                 }`}
               >
