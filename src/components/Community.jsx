@@ -11,6 +11,7 @@ function Community() {
               <p>
                 Find other women founders to connect, collaborate, and expand your personal network within The Loop community. 
               </p>
+              <a href="https://airtable.com/shrrfmA4aGM0GIZXF" class="btn btn-cta">Join Our Community</a>
             </div>
             <div class="col-lg-6">
               <img
@@ -19,11 +20,6 @@ function Community() {
                 alt="Community"
               />
             </div>
-            <div class="card-body">
-                  <h5 class="card-title">Join Our Community </h5>
-              
-                  <a href="https://airtable.com/shrrfmA4aGM0GIZXF" class="btn btn-cta">Join Now</a>
-                </div>
           </div>
         </div>
       </div>
@@ -37,7 +33,7 @@ function Community() {
                 <div class="card-body">
                   <h5 class="card-title">Our Slack Workspace</h5>
                   <p class="card-text">Join the Slack community to be a part of the conversation.</p>
-                  
+                  <a href="https://airtable.com/shrrfmA4aGM0GIZXF" class="btn btn-cta">Sign up</a>
                 </div>
               </div>
             </div>
@@ -47,7 +43,7 @@ function Community() {
                 <div class="card-body">
                   <h5 class="card-title">Our Directory of Womxn</h5>
                   <p class="card-text">Access the Directory to reach out directly to other interesting womxn.</p>
-              
+                  <a href="https://airtable.com/shrrfmA4aGM0GIZXF" class="btn btn-cta">Get access</a>
                 </div>
               </div>
             </div>

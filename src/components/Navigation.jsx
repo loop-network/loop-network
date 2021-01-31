@@ -56,7 +56,7 @@ function Navigation(props) {
                   Group Salons
                 </Link>
               </li>
-              <li
+              {/* <li
                 class={`nav-item  ${
                   props.location.pathname === "/officehours" ? "active" : ""
                 }`}
@@ -73,7 +73,7 @@ function Navigation(props) {
                 <Link class="nav-link" to="/calendar">
                   Calendar
                 </Link>
-              </li>
+              </li> */}
               <li
                 class={`nav-item  ${
                   props.location.pathname === "/volunteer" ? "active" : ""
