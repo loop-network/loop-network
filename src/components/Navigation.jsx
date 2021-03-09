@@ -74,7 +74,7 @@ function Navigation(props) {
                   Calendar
                 </Link>
               </li> */}
-              <li
+              {/* <li
                 class={`nav-item  ${
                   props.location.pathname === "/volunteer" ? "active" : ""
                 }`}
@@ -82,7 +82,7 @@ function Navigation(props) {
                 <Link class="nav-link" to="/volunteer">
                   Volunteer
                 </Link>
-              </li>
+              </li> */}
               <li
                 class={`nav-item dropdown  ${
                   props.location.pathname === "/about" ? "active" : ""

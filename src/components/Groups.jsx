@@ -12,7 +12,7 @@ function Groups() {
               Our Group Salons are aimed at founders looking to build their skills. <br /><br />
               Best part is that they’re free! Facilitated by investors and operators, Group Salons focus on a variety of topics, ranging from need-finding to scaling your startup. You’ll be in a group of other founders at the same stage as you to get the community and accountability you need to be on on the right track. Group Salons are free and are facilitated by industry mentors on a volunteer basis. 
               </p>
-              <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
+              <a href="https://airtable.com/shr8kolqizy5YrsIq"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
             </div>
             <div class="col-lg-6">
               <img
