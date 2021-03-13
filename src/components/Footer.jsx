@@ -8,10 +8,10 @@ function Footer() {
     <div className="footer">
       <footer class="py-5 bg-white px-4 my-4">
         <div class="container">
-          <h2 class="mb-2">Stay in the Loop</h2>
+          <h2 class="mb-2">Want to Know More?</h2>
           <div class="row">
             <div class="col-lg-6 mb-4">
-              <h5 class="mb-2">Receive content, events, and more.</h5>
+              <h5 class="mb-2">We’re always looking for feedback. Ping us at helloloopnetwork@gmail.com</h5>
                 <div id="mc_embed_signup">
                   <form action="https://squarespace.us19.list-manage.com/subscribe/post?u=192e08f3316678f1d6916d453&amp;id=f7ea5c925e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div id="mc_embed_signup_scroll">

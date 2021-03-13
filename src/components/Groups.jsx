@@ -7,12 +7,13 @@ function Groups() {
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
-              <h1>Group Salons</h1>
+              <h1>Start building with Group Salons 2.0.</h1>
               <p>
-              Our Group Salons are aimed at founders looking to build their skills. <br /><br />
-              Best part is that they’re free! Facilitated by investors and operators, Group Salons focus on a variety of topics, ranging from need-finding to scaling your startup. You’ll be in a group of other founders at the same stage as you to get the community and accountability you need to be on on the right track. Group Salons are free and are facilitated by industry mentors on a volunteer basis. 
+              Looking for FREE actionable support to help you launch your venture or small business? <br /><br />
+              Facilitated by investors and operators, each Group Salon workshop is customized around a different entrepreneurial principle, from empathy mapping to scaling your business. Based on the stage of your venture, we’ll match you with a cohort of peer founders, giving you the community and accountability to stay on track. The best part? 
+              It’s 100% FREE.
               </p>
-              <a href="https://airtable.com/shr8kolqizy5YrsIq"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
+              <a href="https://airtable.com/shr8kolqizy5YrsIq"><button type="button" class="btn btn-primary">Apply for the April-May 2021 Cohort!</button></a>
             </div>
             <div class="col-lg-6">
               <img
@@ -22,6 +23,12 @@ function Groups() {
               />
             </div>
           </div>
+        </div>
+      </div>
+      <div class="row min-vh-75 py-4 px-4 my-4">
+        <div class="container my-auto">
+        <p>8 weekly 1-hour sessions. Outstanding mentors with experience as operators, investors, and founders. </p>
+        <h4>No venture is too early to apply!</h4>
         </div>
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
@@ -67,7 +74,7 @@ function Groups() {
             <li><b>How much does this cost?</b><br />Group Salons are free. They’re led by volunteer industry mentors, who are experienced investors, operators, and founders. Our mission is to simply increase the number of womxn launching startups.</li><br />
             <li><b>What's the time commitment?</b><br />Group Salons take place once a week over the course of a month for one hour. This will be 4 hours of meeting time with your mentor and other cohort participants. There will also be a syllabus for each track with optional readings and suggested assignments, which you will receive at the start of the salon.</li><br />
             <li><b>What happens during the group salon?</b><br />You will meet virtually with your cohort of other womxn founders and mentor over Zoom. The mentor will conduct a check-in and will facilitate a conversation between the founders in the group around the topics for that week. It’s encouraged that founders complete their recommended readings and assignments to get the most out of the discussions.</li><br />
-            <li><b>When's the next group salon?</b><br />The next Group Salon will be in January, with applications being released in November. </li><br />
+            <li><b>When's the next group salon?</b><br />The next Group Salon will start in April, with applications being released in March. </li><br />
             <li><b>Who do I contact if I have questions?</b><br />Feel free to email the team at helloloopnetwork@gmail.com or Sri Muppidi at sri13muppidi@gmail.com.</li>
           </ol>
         </div>
@@ -84,14 +91,14 @@ function Groups() {
             </div>
             <div class="col-lg-6 mb-4">
               <h2>Sign up and start building your venture today.</h2>
-              <a href="https://airtable.com/shrrfmA4aGM0GIZXF"><button type="button" class="btn btn-primary">Join the Waitlist</button></a>
+              <a href="https://airtable.com/shr8kolqizy5YrsIq"><button type="button" class="btn btn-primary">Apply for the April-May 2021 Cohort!</button></a>
             </div>
           </div>
         </div>
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h2 class="mb-4">Some of our recent participants</h2>
+          <h2 class="mb-4">Some of our past participants</h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 d-flex align-items-stretch">
                 <div class="card mb-4">
