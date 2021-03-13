@@ -9,9 +9,14 @@ function Matching() {
             <div class="col-lg-6">
               <h1>One-on-Ones</h1>
               <p>
-                More in-depth description of One-on--Ones and the purpose of these meetings - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                More in-depth description of One-on--Ones and the purpose of
+                these meetings - Lorem ipsum dolor sit amet, consectetur
+                adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua.
               </p>
-              <button type="button" class="btn btn-primary">Sign up</button>
+              <button type="button" class="btn btn-primary">
+                Sign up
+              </button>
             </div>
             <div class="col-lg-6">
               <img
@@ -33,7 +38,10 @@ function Matching() {
                 src="http://placehold.it/300x300"
                 alt=""
               />
-              <p>Sign up here. Please answer all the questions so we can match you.</p>
+              <p>
+                Sign up here. Please answer all the questions so we can match
+                you.
+              </p>
             </div>
             <div class="col-lg-4">
               <img
@@ -41,7 +49,10 @@ function Matching() {
                 src="http://placehold.it/300x300"
                 alt=""
               />
-              <p>The Loop finds you the best matches. We’ll take care of all the logistics.</p>
+              <p>
+                The Loop finds you the best matches. We’ll take care of all the
+                logistics.
+              </p>
             </div>
             <div class="col-lg-4">
               <img
@@ -49,7 +60,10 @@ function Matching() {
                 src="http://placehold.it/300x300"
                 alt=""
               />
-              <p>Meet with your match or cohort group virtually (or in-person after COVID-19). </p>
+              <p>
+                Meet with your match or cohort group virtually (or in-person
+                after COVID-19).{" "}
+              </p>
             </div>
           </div>
         </div>
@@ -57,7 +71,10 @@ function Matching() {
       <section>
         <div class="container">
           <div class="testimonial">
-            <h1>“I met one of my technical co-founders of my startup through a one-on-one set up by The Loop!” - Jan Smith</h1>
+            <h1>
+              “I met one of my technical co-founders of my startup through a
+              one-on-one set up by The Loop!” - Jan Smith
+            </h1>
           </div>
         </div>
       </section>
