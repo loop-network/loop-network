@@ -40,7 +40,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/community">
-                  Community
+                  Join the Circle
                 </Link>
               </li>
               <li
@@ -60,7 +60,7 @@ function Navigation(props) {
                 <Link class="nav-link" to="/officehours">
                   Office Hours
                 </Link>
-              </li>
+              </li> */}
               <li
                 class={`nav-item  ${
                   props.location.pathname === "/calendar" ? "active" : ""
@@ -69,7 +69,7 @@ function Navigation(props) {
                 <Link class="nav-link" to="/calendar">
                   Calendar
                 </Link>
-              </li> */}
+              </li>
               {/* <li
                 class={`nav-item  ${
                   props.location.pathname === "/volunteer" ? "active" : ""
@@ -80,33 +80,18 @@ function Navigation(props) {
                 </Link>
               </li> */}
               <li
-                class={`nav-item dropdown  ${
-                  props.location.pathname === "/about" ? "active" : ""
+                class={`nav-item  ${
+                  props.location.pathname === "'about" ? "active" : ""
                 }`}
               >
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
+                <Link class="nav-link" to="/about">
                   About
+                </Link>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://medium.com/@helloloopnetwork">
+                  Blog
                 </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <Link class="dropdown-item" to="/about">
-                    Team
-                  </Link>
-                  <a
-                    class="dropdown-item"
-                    href="https://medium.com/@helloloopnetwork"
-                    target="_blank"
-                  >
-                    Blog
-                  </a>
-                </div>
               </li>
             </ul>
             <ul class="navbar-nav ml-auto">

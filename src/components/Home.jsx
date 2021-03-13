@@ -7,18 +7,13 @@ function Home() {
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
-              <p>
+              <p class="larger-text">
                 The lack of female founders isn't due to a disparity in
                 innovation.
               </p>
               <h1 class="mb-4">
                 It's from a disparity in access to resources.
               </h1>
-              <a href="https://airtable.com/shrrfmA4aGM0GIZXF">
-                <button type="button" class="btn btn-primary">
-                  Join The Loop
-                </button>
-              </a>
             </div>
             <div class="col-lg-6">
               <img
@@ -41,12 +36,13 @@ function Home() {
               />
             </div>
             <div class="col-lg-6">
-              <p>
+              <p class="medium-text mb-4">
                 We’ve all heard that women are less likely to consider a career
                 in entrepreneurship than men.
+                <br />
                 <b>But why is it that don’t we see ourselves as founders? </b>
               </p>
-              <h2 class="mb-4">
+              <h2 class="mb-4 blue-text">
                 Because we have fewer female entrepreneurs to look up to.
               </h2>
             </div>
@@ -65,25 +61,30 @@ function Home() {
             </div>
             <div class="col-lg-6">
               <h2 class="mb-4">
-                Take a seat at The Loop, an inclusive round table built by
-                women, for women.
+                Take a seat at <span class="blue-text">The Loop</span>, an
+                inclusive round table built by women, for women.
               </h2>
-              <p>
-                You’ve already got the ideas. We’re just here to support you
-                wherever you are in your startup journey.
+              <p class="medium-text">
+                <b>You’ve already got the ideas.</b> We’re just here to support
+                you wherever you are in your startup journey.
               </p>
             </div>
           </div>
         </div>
       </div>
-      <div class="row min-vh-75 py-4 px-4 my-4">
+      <div class="row min-vh-75 py-4 px-4">
+        <div class="container my-auto d-flex justify-content-center">
+          <img src="illustrations/rectangle.svg" alt="Rectangle" />
+        </div>
+      </div>
+      <div class="row min-vh-75 pb-4 px-4 my-4">
         <div class="container my-auto">
-          <h2 class="mb-4">
-            Everyone’s path is unique. Let us meet you where you are.
-          </h2>
+          <p class="mb-4 larger-text text-center">
+            Everyone’s path is unique. <b>Let us meet you where you are.</b>
+          </p>
           <div class="card-deck">
-            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
-              <div class="card mb-4 h-100">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4 smaller-padding">
+              <div class="card mb-4 h-100 linked-card">
                 <img
                   src="illustrations/friends_online_card_image.svg"
                   class="card-img-top"
@@ -91,15 +92,17 @@ function Home() {
                 />
                 <div class="card-body">
                   <h5 class="card-title">Join the Community</h5>
-                  <p class="card-text">Find other founders in The Circle</p>
-                  <a href="/Community" class="btn btn-primary">
-                    Learn More
-                  </a>
+                  <p class="card-text">
+                    Find other founders in{" "}
+                    <span class="orange-text font-weight-bold">The Circle</span>
+                    .
+                  </p>
+                  <a href="/Community" class="stretched-link"></a>
                 </div>
               </div>
             </div>
-            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
-              <div class="card mb-4 h-100">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4 smaller-padding">
+              <div class="card mb-4 h-100 linked-card">
                 <img
                   src="illustrations/hang_out_card_image.svg"
                   class="card-img-top"
@@ -107,26 +110,35 @@ function Home() {
                 />
                 <div class="card-body">
                   <h5 class="card-title">Join a Group Salon</h5>
-                  <p class="card-text">Launch your venture with Group Salons</p>
-                  <a href="/Groups" class="btn btn-primary">
-                    Learn More
-                  </a>
+                  <p class="card-text">
+                    Launch your venture with{" "}
+                    <span class="orange-text font-weight-bold">
+                      Group Salons
+                    </span>
+                    .
+                  </p>
+                  <a href="/Groups" class="stretched-link"></a>
                 </div>
               </div>
             </div>
-            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
-              <div class="card mb-4 h-100">
+            <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4 smaller-padding">
+              <div class="card mb-4 h-100 linked-card">
                 <img
                   src="illustrations/teacher_card_image.svg"
                   class="card-img-top"
                   alt="Volunteer Card"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Volunteer as a Mentor</h5>
-                  <p class="card-text">Stay in the loop with our Newsletter</p>
-                  <a href="/Volunteer" class="btn btn-primary">
-                    Learn More
-                  </a>
+                  <h5 class="card-title">Stay in the Loop</h5>
+                  <p class="card-text">
+                    Stay in the loop with our{" "}
+                    <span class="orange-text font-weight-bold">
+                      {" "}
+                      Newsletter
+                    </span>
+                    .
+                  </p>
+                  <a href="/Community" class="stretched-link"></a>
                 </div>
               </div>
             </div>

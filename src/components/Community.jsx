@@ -34,7 +34,7 @@ function Community() {
         <div class="container my-auto">
           <div class="card-deck">
             <div class="col-md-6 col-lg-6 col-12 align-items-stretch mb-4">
-              <div class="card mb-4 h-100">
+              <div class="card mb-4 h-100 linked-card">
                 <img
                   src="illustrations/slack_chat.svg"
                   class="card-img-top larger-card"
@@ -47,15 +47,13 @@ function Community() {
                   </p>
                   <a
                     href="https://airtable.com/shrrfmA4aGM0GIZXF"
-                    class="btn btn-cta"
-                  >
-                    Sign up
-                  </a>
+                    class="stretch-link"
+                  />
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-lg-6 col-12 align-items-stretch mb-4">
-              <div class="card mb-4 h-100">
+              <div class="card mb-4 h-100 linked-card">
                 <img
                   src="illustrations/women_directory.svg"
                   class="card-img-top larger-card"
@@ -69,10 +67,8 @@ function Community() {
                   </p>
                   <a
                     href="https://airtable.com/shrrfmA4aGM0GIZXF"
-                    class="btn btn-cta"
-                  >
-                    Get access
-                  </a>
+                    class="stretch-link"
+                  />
                 </div>
               </div>
             </div>
