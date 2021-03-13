@@ -41,37 +41,14 @@ function Home() {
               />
             </div>
             <div class="col-lg-6">
-              <h2 class="mb-4">Female founders are a better bet.</h2>
               <p>
                 We’ve all heard that women are less likely to consider a career
                 in entrepreneurship than men.
                 <b>But why is it that don’t we see ourselves as founders? </b>
               </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row min-vh-75 py-4 px-4 my-4">
-        <div class="container my-auto">
-          <div class="row align-items-center">
-            <div class="col-lg-6">
-              <img
-                class="img-fluid rounded mb-4 mb-lg-0"
-                src="illustrations/conference.svg"
-                alt="Women Professional"
-              />
-            </div>
-            <div class="col-lg-6">
               <h2 class="mb-4">
-                But only 11.8% of startups have a female founder.
+                Because we have fewer female entrepreneurs to look up to.
               </h2>
-              <p>
-                (Source:{" "}
-                <a href="https://allraise.org/assets/all-raise-annual-report-2019.pdf">
-                  2019 All Raise Annual Report
-                </a>
-                )
-              </p>
             </div>
           </div>
         </div>
@@ -87,11 +64,13 @@ function Home() {
               />
             </div>
             <div class="col-lg-6">
-              <h2 class="mb-4">We plan to change that.</h2>
+              <h2 class="mb-4">
+                Take a seat at The Loop, an inclusive round table built by
+                women, for women.
+              </h2>
               <p>
-                We support womxn at the earliest stages of the startup journey.
-                The Loop is your community, whether you’re exploring an idea or
-                getting ready to fundraise.
+                You’ve already got the ideas. We’re just here to support you
+                wherever you are in your startup journey.
               </p>
             </div>
           </div>
@@ -99,7 +78,9 @@ function Home() {
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h2 class="mb-4">How you can be a part of The Loop</h2>
+          <h2 class="mb-4">
+            Everyone’s path is unique. Let us meet you where you are.
+          </h2>
           <div class="card-deck">
             <div class="col-md-6 col-lg-4 col-12 align-items-stretch mb-4">
               <div class="card mb-4 h-100">
@@ -110,9 +91,7 @@ function Home() {
                 />
                 <div class="card-body">
                   <h5 class="card-title">Join the Community</h5>
-                  <p class="card-text">
-                    Connect with other founders and grow your personal network.
-                  </p>
+                  <p class="card-text">Find other founders in The Circle</p>
                   <a href="/Community" class="btn btn-primary">
                     Learn More
                   </a>
@@ -128,10 +107,7 @@ function Home() {
                 />
                 <div class="card-body">
                   <h5 class="card-title">Join a Group Salon</h5>
-                  <p class="card-text">
-                    Join a cohort of 6 other womxn and learn about venture
-                    building from industry experts.
-                  </p>
+                  <p class="card-text">Launch your venture with Group Salons</p>
                   <a href="/Groups" class="btn btn-primary">
                     Learn More
                   </a>
@@ -147,9 +123,7 @@ function Home() {
                 />
                 <div class="card-body">
                   <h5 class="card-title">Volunteer as a Mentor</h5>
-                  <p class="card-text">
-                    Teach and support the next generation of female founders.
-                  </p>
+                  <p class="card-text">Stay in the loop with our Newsletter</p>
                   <a href="/Volunteer" class="btn btn-primary">
                     Learn More
                   </a>

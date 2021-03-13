@@ -7,23 +7,22 @@ function Groups() {
         <div class="container my-auto">
           <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
-              <h1>Start building with Group Salons 2.0.</h1>
+              <h1 class="mb-3">
+                Start building with <br />
+                <span class="orange-text">Group Salons 2.0.</span>
+              </h1>
               <p>
-                Looking for FREE actionable support to help you launch your
-                venture or small business? <br />
+                Looking for FREE actionable support to help you launch your{" "}
+                <b>venture</b> or <b>small business?</b> <br />
                 <br />
                 Facilitated by investors and operators, each Group Salon
                 workshop is customized around a different entrepreneurial
                 principle, from empathy mapping to scaling your business. Based
                 on the stage of your venture, we’ll match you with a cohort of
                 peer founders, giving you the community and accountability to
-                stay on track. The best part? It’s 100% FREE.
+                stay on track. The best part?
               </p>
-              <a href="https://airtable.com/shr8kolqizy5YrsIq">
-                <button type="button" class="btn btn-primary">
-                  Apply for the April-May 2021 Cohort!
-                </button>
-              </a>
+              <h5>It’s 100% FREE.</h5>
             </div>
             <div class="col-lg-6">
               <img
@@ -36,23 +35,26 @@ function Groups() {
         </div>
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
-        <div class="container my-auto">
-          <p>
-            8 weekly 1-hour sessions. Outstanding mentors with experience as
-            operators, investors, and founders.{" "}
-          </p>
-          <h4>No venture is too early to apply!</h4>
+        <div class="container my-auto d-flex justify-content-center">
+          <div class="text-center">
+            <a href="https://airtable.com/shr8kolqizy5YrsIq">
+              <button type="button" class="btn btn-primary mt-2 mb-4">
+                Apply for the April-May 2021 Cohort!
+              </button>
+            </a>
+            <p>
+              8 weekly 1-hour sessions. Outstanding mentors with experience as
+              operators, investors, and founders.
+            </p>
+            <h5>No venture is too early to apply!</h5>
+          </div>
         </div>
       </div>
       <div class="row min-vh-75 py-4 px-4 my-4">
         <div class="container my-auto">
-          <h2>How it works</h2>
-          <p>
-            Sessions are one hour per week for a month. They’re led by an
-            outstanding group of mentors who have prior experience as operators,
-            investors, and founders. Group Salons are free, and mentors support
-            founders on a volunteer-basis. Choose from three tracks:
-          </p>
+          <h4 class="mb-4">
+            Each Group Salon cohort will complete the following 3 tracks:
+          </h4>
           <div class="row">
             <div class="col-md-6 col-lg-4 col-12 mb-4">
               <h5 class="blue-text">Develop your venture</h5>
@@ -112,9 +114,7 @@ function Groups() {
               leap. We’re focused on helping women at the beginning of their
               startup journeys and are working on tech-enabled companies. This
               could be someone who may be exploring different ideas, or it could
-              be someone who’s ready to raise their seed round. There are 3
-              tracks, and you can choose the one that best suits what you want
-              to work on.{" "}
+              be someone who’s ready to raise their seed round.{" "}
             </li>
             <br />
             <li>
@@ -124,16 +124,6 @@ function Groups() {
               who are experienced investors, operators, and founders. Our
               mission is to simply increase the number of womxn launching
               startups.
-            </li>
-            <br />
-            <li>
-              <b>What's the time commitment?</b>
-              <br />
-              Group Salons take place once a week over the course of a month for
-              one hour. This will be 4 hours of meeting time with your mentor
-              and other cohort participants. There will also be a syllabus for
-              each track with optional readings and suggested assignments, which
-              you will receive at the start of the salon.
             </li>
             <br />
             <li>
@@ -176,7 +166,7 @@ function Groups() {
             <div class="col-lg-6 mb-4">
               <h2>Sign up and start building your venture today.</h2>
               <a href="https://airtable.com/shr8kolqizy5YrsIq">
-                <button type="button" class="btn btn-primary">
+                <button type="button" class="btn btn-primary mt-2">
                   Apply for the April-May 2021 Cohort!
                 </button>
               </a>
